@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
                           DigiokycSDK is a swift client framework, which is design for eKYC, OKYC, Aadhaar verification, Pancard verification, OCR etc
                    DESC
 
-  spec.homepage     = "https://github.com/digio-in/digio-iOS-KYC-SDK.git"
+  spec.homepage     = "https://github.com/digio-tech/digio-iOS-KYC-SDK.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -82,7 +82,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/digio-in/digio-iOS-KYC-SDK.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/digio-tech/digio-iOS-KYC-SDK.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -96,7 +96,7 @@ Pod::Spec.new do |spec|
 #   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
 #   spec.exclude_files = "Classes/Exclude"
 
-  spec.source_files  = "DigiokycSDK.framework/Headers/*.h"
+  spec.vendored_frameworks  = "DigiokycSDK.framework"
   spec.exclude_files = "Classes/Exclude"
   # spec.public_header_files = "Classes/**/*.h"
 

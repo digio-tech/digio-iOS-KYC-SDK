@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rvLN9Xx8KCrenuX7c8kP9hDR5Vs=
+		DjDhtBFvyy8YY6djyfNQclvjD7o=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tw1CMuyMnoghTtYQDfFAVxd3BqU=
+		H34bipa/8VRsXddaAUb7zdzlH5c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -332,7 +332,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w5FN9D8Awxu5uGZMgH7yMlvxmLuq8N3laEbc7CwOm2w=
+			kEcntZYKgikpGRoQaFBt8tqHZl9IyqEjLmwrSa+Dg5Y=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -367,7 +367,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			12uoY980bKpDtanGlt//DXPjDMciQj8kV+Vm76n90m8=
+			X8x8mCYV8wa8eVpZpo7ONO/Jt4fXqawwXzFDwRMghuI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

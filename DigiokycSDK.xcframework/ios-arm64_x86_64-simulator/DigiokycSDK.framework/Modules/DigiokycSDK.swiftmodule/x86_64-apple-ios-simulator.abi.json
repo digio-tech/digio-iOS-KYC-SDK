@@ -4462,9 +4462,16 @@
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3647,
+      "offset": 1017,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1235,
+      "length": 6,
+      "value": "\"Back\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
@@ -4611,7 +4618,7 @@
       "kind": "StringLiteral",
       "offset": 1341,
       "length": 7,
-      "value": "\"1.0.1\""
+      "value": "\"1.0.3\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",

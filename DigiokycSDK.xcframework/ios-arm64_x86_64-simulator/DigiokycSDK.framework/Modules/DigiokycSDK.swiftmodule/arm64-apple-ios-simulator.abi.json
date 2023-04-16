@@ -15,6 +15,16 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "DigioApiResponseListener",
         "printedName": "DigioApiResponseListener",
@@ -336,6 +346,16 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "DigiokycSDK",
         "declAttributes": [
@@ -965,6 +985,16 @@
         "printedName": "WebKit",
         "declKind": "Import",
         "moduleName": "DigiokycSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1941,6 +1971,33 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "DigioTaskResponse",
         "printedName": "DigioTaskResponse",
@@ -2489,6 +2546,13 @@
       },
       {
         "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -2661,6 +2725,16 @@
         "moduleName": "DigiokycSDK",
         "declAttributes": [
           "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -2894,6 +2968,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SystemConfiguration",
         "printedName": "SystemConfiguration",
         "declKind": "Import",
@@ -2911,6 +2995,16 @@
           "AccessControl"
         ],
         "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -4228,6 +4322,62 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "kind": "StringLiteral",
+      "offset": 171,
+      "length": 21,
+      "value": "\"LOCATION_PERMISSION\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "kind": "StringLiteral",
+      "offset": 222,
+      "length": 19,
+      "value": "\"CAMERA_PERMISSION\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 23,
+      "value": "\"MICROPHONE_PERMISSION\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "kind": "StringLiteral",
+      "offset": 334,
+      "length": 25,
+      "value": "\"PHOTOLIBRARY_PERMISSION\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "kind": "StringLiteral",
+      "offset": 171,
+      "length": 21,
+      "value": "\"LOCATION_PERMISSION\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "kind": "StringLiteral",
+      "offset": 222,
+      "length": 19,
+      "value": "\"CAMERA_PERMISSION\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 23,
+      "value": "\"MICROPHONE_PERMISSION\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "kind": "StringLiteral",
+      "offset": 334,
+      "length": 25,
+      "value": "\"PHOTOLIBRARY_PERMISSION\""
+    },
+    {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 957,
@@ -4303,6 +4453,13 @@
       "offset": 842,
       "length": 9,
       "value": "\"#0066ff\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/Stack.swift",
+      "kind": "Array",
+      "offset": 142,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Stateless\/DigioTaskResponse.swift",
@@ -4398,14 +4555,14 @@
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 908,
+      "offset": 922,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1126,
+      "offset": 1191,
       "length": 6,
       "value": "\"Back\""
     },
@@ -4554,7 +4711,7 @@
       "kind": "StringLiteral",
       "offset": 1342,
       "length": 7,
-      "value": "\"1.0.5\""
+      "value": "\"1.0.6\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
@@ -4580,114 +4737,135 @@
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1926,
+      "offset": 1813,
+      "length": 36,
+      "value": "\"App-prefs:root=Privacy&path=CAMERA\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 2004,
       "length": 27,
       "value": "\"OTP Generation Successful\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2018,
+      "offset": 2096,
       "length": 44,
       "value": "\"Aadhaar number does not have mobile number\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2111,
+      "offset": 2189,
       "length": 29,
       "value": "\"Captcha value doesn't match\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2210,
+      "offset": 2288,
       "length": 49,
       "value": "\"Internal Server Error during Captcha Validation\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2325,
+      "offset": 2403,
       "length": 45,
       "value": "\"Internal Server Error during OTP Generation\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2404,
+      "offset": 2482,
       "length": 13,
       "value": "\"Invalid OTP\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2474,
+      "offset": 2552,
       "length": 37,
       "value": "\"Session Expired. Please Login Again\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2579,
+      "offset": 2657,
       "length": 48,
       "value": "\"Invalid or Expired Session. Please login again\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2671,
+      "offset": 2749,
       "length": 23,
       "value": "\"Internal Server Error\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2760,
+      "offset": 2838,
       "length": 45,
       "value": "\"Internal Server Error during Authentication\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2880,
+      "offset": 2958,
       "length": 54,
       "value": "\"UIDAI could not be loaded please try after some time\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2990,
+      "offset": 3068,
       "length": 35,
       "value": "\"UIDAI Website could not be loaded\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3154,
+      "offset": 3232,
       "length": 13,
       "value": "\"REQUEST OTP\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3207,
+      "offset": 3285,
       "length": 17,
       "value": "\"AGREE & PROCEED\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3258,
+      "offset": 3336,
       "length": 13,
       "value": "\"FINISH eKYC\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3413,
+      "offset": 3491,
       "length": 16,
       "value": "\"iosKycListener\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/StorageService\/UserDefaultsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 195,
+      "length": 21,
+      "value": "\"APP_REDIRECT_REASON\""
+    },
+    {
+      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/StorageService\/UserDefaultsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 195,
+      "length": 21,
+      "value": "\"APP_REDIRECT_REASON\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",

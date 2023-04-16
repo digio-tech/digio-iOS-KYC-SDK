@@ -66,15 +66,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cBAu1YzaSiLRSh7mXYarjIFHges=
+		9d6J18K7GchAik1qV9A4nvhStWw=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		IIdMNOUJYSKArxeCi0WGbwAoPNo=
+		rM4sQLsL/HqCj2MAdeIy8bHt+eY=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		24F6PbZztxz55asYQVrSjuUzZNg=
+		QGWIqO2qcUFlZrkx9uXG27g0bVo=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		24F6PbZztxz55asYQVrSjuUzZNg=
+		QGWIqO2qcUFlZrkx9uXG27g0bVo=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		UKWN0D7LUyFQAsR1D559ntIs5zM=
+		/oRjOirjbecHCBGvPtK//XY8F2I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -284,14 +284,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0+e5vmwOA8ZGBFAWQEe9+byPPZ5JHNhWOE3xIotd2XQ=
+			yjsd7H+e7xdTIlCf7tQPEPmJr7ds8hLZBLCALVboS2w=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oXwSE8zIwhWJQ9Gsgo8p5TAFYH37x5pOPziBDAK3dUY=
+			BLV6gar1PNlxFTbj2VNdCiYKzbDGX7Ddk9ojOovo7Bk=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -305,14 +305,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oXwSE8zIwhWJQ9Gsgo8p5TAFYH37x5pOPziBDAK3dUY=
+			BLV6gar1PNlxFTbj2VNdCiYKzbDGX7Ddk9ojOovo7Bk=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BBfBQEEUa86VS42eWctnmsof2hb+ssNn1QXOvSRhQ5I=
+			c7XeJoa58QN1MFxP8caKZNxW/6MM3EXWvsRhwFHdmPM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

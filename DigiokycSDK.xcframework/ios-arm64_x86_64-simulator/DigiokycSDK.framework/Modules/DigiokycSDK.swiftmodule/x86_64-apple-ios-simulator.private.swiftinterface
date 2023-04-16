@@ -5,6 +5,7 @@
 import CoreLocation
 @_exported import DigiokycSDK
 import Foundation
+import Photos
 import Swift
 import SystemConfiguration
 import UIKit

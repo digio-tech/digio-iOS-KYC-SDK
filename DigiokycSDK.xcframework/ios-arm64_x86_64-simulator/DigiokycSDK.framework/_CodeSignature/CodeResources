@@ -66,15 +66,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uheSlxqW2nZ0i4bh9GyMcT9hK/4=
+		2WOFOIiUPvwTDapEsVaUKnJbgaM=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		IIdMNOUJYSKArxeCi0WGbwAoPNo=
+		rM4sQLsL/HqCj2MAdeIy8bHt+eY=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		cKbLQDxEfacYWquj8p9K5M1aqRA=
+		j+Eo1tgWKTELcU+chVNC1zlSvII=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -82,19 +82,19 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cKbLQDxEfacYWquj8p9K5M1aqRA=
+		j+Eo1tgWKTELcU+chVNC1zlSvII=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OKmiiO5lPS75/Z6MaCYpvu9ef64=
+		n6s/hQo8D0ekHXCTzNUAOYszrT0=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		IIdMNOUJYSKArxeCi0WGbwAoPNo=
+		rM4sQLsL/HqCj2MAdeIy8bHt+eY=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CiukJ4Dma+dBVg9b8lBDxGK6U1w=
+		fOiaPVX9dFNwIYaZHtEh0uCGI5w=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -102,11 +102,11 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CiukJ4Dma+dBVg9b8lBDxGK6U1w=
+		fOiaPVX9dFNwIYaZHtEh0uCGI5w=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DC/ULs4/5gHviZXn9datpZc9n5o=
+		ptJkZC7erhZLvzl0do4Qn9mQ598=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -304,14 +304,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0+e5vmwOA8ZGBFAWQEe9+byPPZ5JHNhWOE3xIotd2XQ=
+			yjsd7H+e7xdTIlCf7tQPEPmJr7ds8hLZBLCALVboS2w=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QDfEODSPPr3VJVo3+h1M8SteRa7CkMHu2oM24XpI//c=
+			2twSD0GIsQKs9bEWqmuQChp15JK7kwHlsqYtE2IAHao=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -325,28 +325,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QDfEODSPPr3VJVo3+h1M8SteRa7CkMHu2oM24XpI//c=
+			2twSD0GIsQKs9bEWqmuQChp15JK7kwHlsqYtE2IAHao=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TEc6/hE2lqVkHQ6fRSZ4SAK/gO1SCFmWyR2ZgIdr96c=
+			6nL8QAUtezHKF8ZyUtvMB3B1cmzgEvg8RGHKLvc0LY0=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0+e5vmwOA8ZGBFAWQEe9+byPPZ5JHNhWOE3xIotd2XQ=
+			yjsd7H+e7xdTIlCf7tQPEPmJr7ds8hLZBLCALVboS2w=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YtWwW91KYUCte2s2+diubyCt8A7NbSjc+HJoNGt1irE=
+			1URexN1JOXyXjhr1xyIGoBUVgSZIlZ4ssvAmXeLpoOg=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -360,14 +360,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YtWwW91KYUCte2s2+diubyCt8A7NbSjc+HJoNGt1irE=
+			1URexN1JOXyXjhr1xyIGoBUVgSZIlZ4ssvAmXeLpoOg=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6XTa8mU+J5uyigZIbSAZQscVoXnJRbb6ku4NLCetC5Q=
+			eqglwIyDAlQXVaj12LP1jCBS2SRfc2O7CL783qpQuY0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

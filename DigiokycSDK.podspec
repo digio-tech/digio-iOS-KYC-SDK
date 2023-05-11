@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "DigiokycSDK"
-  spec.version      = "1.0.7"
+  spec.version      = "1.0.8"
   spec.summary      = "OKYC, OCR, PAN verification, Aadhaar."
   spec.description  = "DigiokycSDK is a swift client framework, which is design for eKYC, OKYC, Aadhaar verification, Pancard verification, OCR etc"
   spec.homepage     = "https://github.com/digio-tech/digio-iOS-KYC-SDK.git"

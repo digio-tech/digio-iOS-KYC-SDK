@@ -4711,7 +4711,7 @@
       "kind": "StringLiteral",
       "offset": 1342,
       "length": 7,
-      "value": "\"1.0.8\""
+      "value": "\"1.1.0\""
     },
     {
       "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",

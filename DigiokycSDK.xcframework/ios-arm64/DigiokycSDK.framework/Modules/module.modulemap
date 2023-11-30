@@ -1,7 +1,7 @@
 framework module DigiokycSDK {
   umbrella header "DigiokycSDK.h"
-
   export *
+
   module * { export * }
 }
 

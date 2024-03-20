@@ -5115,156 +5115,366 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "StringLiteral",
-      "offset": 997,
+      "offset": 1081,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "StringLiteral",
-      "offset": 1028,
+      "offset": 1112,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1347,
+      "offset": 1218,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1258,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1524,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "StringLiteral",
-      "offset": 1583,
+      "offset": 1602,
       "length": 22,
       "value": "\"Enter Aadhaar Number\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "StringLiteral",
-      "offset": 1670,
+      "offset": 1709,
       "length": 20,
       "value": "\"Enter Captcha Code\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2371,
+      "offset": 2331,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2601,
+      "offset": 2486,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2657,
+      "offset": 2512,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2700,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2747,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2785,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2823,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3022,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3069,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3107,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3145,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "StringLiteral",
-      "offset": 3459,
+      "offset": 3648,
       "length": 24,
       "value": "\"No Internet Connection\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3494,
+      "offset": 3683,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3633,
+      "offset": 3822,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3684,
+      "offset": 3873,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3775,
+      "offset": 3964,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3816,
+      "offset": 4005,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3979,
+      "offset": 4183,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4010,
+      "offset": 4214,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4044,
+      "offset": 4248,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4056,
+      "offset": 4260,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4652,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4681,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4691,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4725,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4827,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "StringLiteral",
-      "offset": 4743,
+      "offset": 4912,
       "length": 9,
       "value": "\"OTPTest\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4898,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5376,
+      "offset": 5410,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5576,
+      "offset": 5610,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6038,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6138,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6148,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 6195,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6593,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6692,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6702,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 6748,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 6885,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 6897,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7032,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 7198,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 7210,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7345,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7508,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7547,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/Extensions.swift",
@@ -7691,763 +7901,763 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2833,
+      "offset": 2776,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2868,
+      "offset": 2811,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3052,
+      "offset": 2995,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3079,
+      "offset": 3022,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3197,
+      "offset": 3140,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3224,
+      "offset": 3167,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 3299,
+      "offset": 3242,
       "length": 16,
       "value": "\"UNKNOWN DEVICE\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "FloatLiteral",
-      "offset": 3437,
+      "offset": 3380,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3541,
+      "offset": 3484,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6235,
+      "offset": 5257,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6280,
+      "offset": 5302,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6543,
+      "offset": 5613,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6597,
+      "offset": 5667,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6656,
+      "offset": 5726,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 6870,
+      "offset": 5940,
       "length": 28,
       "value": "\"Enter valid Aadhaar number\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7032,
+      "offset": 6194,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "FloatLiteral",
-      "offset": 7076,
+      "offset": 6238,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7444,
+      "offset": 6606,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7819,
+      "offset": 6904,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7872,
+      "offset": 6957,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7932,
+      "offset": 7017,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8271,
+      "offset": 7356,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8672,
+      "offset": 7757,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8725,
+      "offset": 7810,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8784,
+      "offset": 7869,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 8874,
+      "offset": 7959,
       "length": 23,
       "value": "\"Enter valid sharecode\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9013,
+      "offset": 8098,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "FloatLiteral",
-      "offset": 9057,
+      "offset": 8142,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9239,
+      "offset": 8324,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 9264,
+      "offset": 8349,
       "length": 14,
       "value": "\"default case\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 9367,
+      "offset": 8452,
       "length": 40,
       "value": "\"Please, Check Your Internet Connection\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9418,
+      "offset": 8503,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9839,
+      "offset": 8924,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9845,
+      "offset": 8930,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9852,
+      "offset": 8937,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 9910,
+      "offset": 8995,
       "length": 41,
       "value": "\"12 digit Aadhaar number(1234\/1234\/1234)\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10423,
+      "offset": 9508,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10428,
+      "offset": 9513,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10435,
+      "offset": 9520,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10791,
+      "offset": 9876,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10796,
+      "offset": 9881,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10803,
+      "offset": 9888,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 10862,
+      "offset": 9947,
       "length": 40,
       "value": "\"Enter the code from image to the right\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11357,
+      "offset": 10442,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11362,
+      "offset": 10447,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11369,
+      "offset": 10454,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11762,
+      "offset": 10847,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "FloatLiteral",
-      "offset": 11797,
+      "offset": 10882,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11850,
+      "offset": 10935,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "FloatLiteral",
-      "offset": 11886,
+      "offset": 10971,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12104,
+      "offset": 11189,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12239,
+      "offset": 11324,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12388,
+      "offset": 11473,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12411,
+      "offset": 11496,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12441,
+      "offset": 11526,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12586,
+      "offset": 11671,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12609,
+      "offset": 11694,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12639,
+      "offset": 11724,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12787,
+      "offset": 11872,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12810,
+      "offset": 11895,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12840,
+      "offset": 11925,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13357,
+      "offset": 12442,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13436,
+      "offset": 12521,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13567,
+      "offset": 12652,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13646,
+      "offset": 12731,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13722,
+      "offset": 12807,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13965,
+      "offset": 13050,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14043,
+      "offset": 13128,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14117,
+      "offset": 13202,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14195,
+      "offset": 13280,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14270,
+      "offset": 13355,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14423,
+      "offset": 13508,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14462,
+      "offset": 13547,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14503,
+      "offset": 13588,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14792,
+      "offset": 13877,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14830,
+      "offset": 13915,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14870,
+      "offset": 13955,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15487,
+      "offset": 14572,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15528,
+      "offset": 14613,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15575,
+      "offset": 14660,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15687,
+      "offset": 14772,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15782,
+      "offset": 14867,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15889,
+      "offset": 14974,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16347,
+      "offset": 15432,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "FloatLiteral",
-      "offset": 16379,
+      "offset": 15464,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16410,
+      "offset": 15495,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16696,
+      "offset": 15781,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16803,
+      "offset": 15888,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16840,
+      "offset": 15925,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16977,
+      "offset": 16062,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17014,
+      "offset": 16099,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 17053,
+      "offset": 16138,
       "length": 13,
       "value": "\"REQUEST OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17467,
+      "offset": 16552,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17587,
+      "offset": 16672,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 17639,
+      "offset": 16724,
       "length": 17,
       "value": "\"AGREE & PROCEED\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17845,
+      "offset": 16930,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 17991,
+      "offset": 17076,
       "length": 13,
       "value": "\"FINISH eKYC\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 18559,
+      "offset": 17644,
       "length": 21,
       "value": "\"AADHAAR_OFFLINE_KYC\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
-      "offset": 21530,
+      "offset": 20615,
       "length": 10,
       "value": "\"consents\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21615,
+      "offset": 20700,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21750,
+      "offset": 20835,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21831,
+      "offset": 20916,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21912,
+      "offset": 20997,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22011,
+      "offset": 21096,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22089,
+      "offset": 21174,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22167,
+      "offset": 21252,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22262,
+      "offset": 21347,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22336,
+      "offset": 21421,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22410,
+      "offset": 21495,
       "length": 1,
       "value": "2"
     },
@@ -8489,161 +8699,161 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2147,
+      "offset": 2020,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2174,
+      "offset": 2047,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2252,
+      "offset": 2125,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2412,
+      "offset": 2285,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2443,
+      "offset": 2316,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2477,
+      "offset": 2350,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2489,
+      "offset": 2362,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3015,
+      "offset": 2888,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3044,
+      "offset": 2917,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3054,
+      "offset": 2927,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3088,
+      "offset": 2961,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3190,
+      "offset": 3063,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3314,
+      "offset": 3187,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3346,
+      "offset": 3219,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "FloatLiteral",
-      "offset": 3450,
+      "offset": 3323,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "FloatLiteral",
-      "offset": 3462,
+      "offset": 3335,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3590,
+      "offset": 3463,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4107,
+      "offset": 3980,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4248,
+      "offset": 4121,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4669,
+      "offset": 4542,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4771,
+      "offset": 4644,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4781,
+      "offset": 4654,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "FloatLiteral",
-      "offset": 4824,
+      "offset": 4697,
       "length": 3,
       "value": "0.4"
     },
@@ -8860,170 +9070,163 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 518,
+      "offset": 522,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 724,
+      "offset": 730,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1042,
+      "offset": 1048,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1348,
+      "offset": 1354,
       "length": 37,
       "value": "\"Do you want to cancel this process?\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1396,
+      "offset": 1402,
       "length": 48,
       "value": "\"You have not completed all the required steps.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1459,
+      "offset": 1465,
       "length": 5,
       "value": "\"Yes\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1479,
+      "offset": 1485,
       "length": 4,
       "value": "\"No\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2741,
+      "offset": 2747,
       "length": 16,
       "value": "\"titleTextColor\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3099,
+      "offset": 3105,
       "length": 16,
       "value": "\"titleTextColor\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3216,
+      "offset": 3222,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3356,
+      "offset": 3362,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3433,
+      "offset": 3439,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3466,
+      "offset": 3472,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3495,
+      "offset": 3501,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3530,
+      "offset": 3536,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3556,
+      "offset": 3562,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3703,
+      "offset": 3709,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3838,
+      "offset": 3844,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3889,
+      "offset": 3895,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3931,
+      "offset": 3937,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3976,
+      "offset": 3982,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4019,
+      "offset": 4025,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4310,
+      "offset": 4316,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4503,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
@@ -9035,100 +9238,100 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4560,
+      "offset": 4515,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4566,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4571,
+      "offset": 4577,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4725,
+      "offset": 4731,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5153,
+      "offset": 5159,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5241,
+      "offset": 5247,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5260,
+      "offset": 5266,
       "length": 30,
       "value": "\"Loading captcha from Aadhaar\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5407,
+      "offset": 5413,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5786,
+      "offset": 5792,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5806,
+      "offset": 5812,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6086,
+      "offset": 6092,
       "length": 45,
       "value": "\"https:\/\/myaadhaar.uidai.gov.in\/offline-ekyc\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6176,
+      "offset": 6182,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6221,
+      "offset": 6227,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6297,
+      "offset": 6303,
       "length": 1,
       "value": "3"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6534,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
@@ -9139,1347 +9342,1711 @@
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6546,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6676,
+      "offset": 6682,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6725,
+      "offset": 6731,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6908,
+      "offset": 6914,
       "length": 19,
       "value": "\"newOKYCStoryboard\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6997,
+      "offset": 7003,
       "length": 14,
       "value": "\"newOKYCBoard\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7116,
+      "offset": 7122,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7198,
+      "offset": 7204,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7281,
+      "offset": 7287,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7363,
+      "offset": 7369,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8583,
+      "offset": 8589,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8588,
+      "offset": 8594,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8970,
+      "offset": 8976,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9101,
+      "offset": 9107,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9244,
+      "offset": 9250,
       "length": 15,
       "value": "\"UIDAIListener\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9381,
+      "offset": 9309,
+      "length": 20,
+      "value": "\"UIDAITimerListener\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9460,
       "length": 2333,
       "value": "\"    var meta = document.createElement('meta');\n    meta.name = 'viewport';\n    meta.content = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no';\n    var head = document.getElementsByTagName('head')[0];\n    head.appendChild(meta);\n\n     \/*\/js\/login.js*\/\n    \/\/for intercepting all XHTTPRequests\n    XMLHttpRequest.prototype.realSend = XMLHttpRequest.prototype.send;\n    XMLHttpRequest.prototype.send = function(value) {\n        this.addEventListener(\"loadend\", function() {\n            var message;\n            console.log(this);\n            \n            if (this.readyState === 4 && this.status===200){\n                message = {\"message\" : \"xHttpRequest\", \"responseURL\" : this.responseURL};\n            }else{\n                message = {\"message\": \"XHTTPRequestError\", \"errorResponse\": this.responseText};\n            }\n\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n        });\n\n        this.realSend(value);\n    };\n\n (function(){\n        var timer = 0;\n        var t = setTimeout(() => {\n            timer = timer + 1;\n            var message;\n            if(timer >= 60){\n                timer = 0;\n                message = {\"message\": \"loadStatus\", \"statusCode\": \"001\"};\n                window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n                clearTimeout(t);\n                if(document.readyState !== 'complete'){\n                    message = {\"message\": \"loadStatus\", \"statusCode\": \"000\"};\n                    window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n                }\n            }else if (document.readyState === 'complete'){\n                timer = 0;\n                clearTimeout(t);\n                message = {\"message\": \"loadStatus\", \"statusCode\": \"001\"};\n                window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n            }\n\n        }, 1000);\n    })();\n        \n\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12565,
+      "offset": 12644,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12951,
+      "offset": 13030,
       "length": 5,
       "value": "\"URL\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13045,
+      "offset": 13124,
       "length": 19,
       "value": "\"estimatedProgress\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13159,
+      "offset": 13238,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13237,
+      "offset": 13316,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13497,
+      "offset": 13622,
       "length": 33,
       "value": "\"https:\/\/myaadhaar.uidai.gov.in\/\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 13886,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13762,
-      "length": 72,
-      "value": "\"document.querySelector('button[class=\"button_btn__1dRFj\"]').click();\""
+      "offset": 13958,
+      "length": 66,
+      "value": "\"document.getElementsByClassName('button_btn__HeAxz')[0].click();\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 14140,
+      "length": 15,
+      "value": "\"error  \""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 14154,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 14478,
+      "length": 16,
+      "value": "\"value \""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 14493,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14329,
+      "offset": 14563,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15850,
+      "offset": 16115,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15936,
+      "offset": 16201,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16023,
+      "offset": 16288,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16109,
+      "offset": 16374,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16235,
+      "offset": 16500,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16822,
+      "offset": 17087,
       "length": 30,
       "value": "\"data:application\/pdf;base64,\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16875,
+      "offset": 17140,
       "length": 25,
       "value": "\"data:text\/plain;base64,\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16938,
+      "offset": 17203,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16975,
+      "offset": 17240,
       "length": 30,
       "value": "\"data:application\/pdf;base64,\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17068,
+      "offset": 17333,
       "length": 30,
       "value": "\"data:application\/pdf;base64,\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17100,
+      "offset": 17365,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17181,
+      "offset": 17446,
       "length": 25,
       "value": "\"data:text\/plain;base64,\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17208,
+      "offset": 17473,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17431,
+      "offset": 17696,
       "length": 5,
       "value": "\"ZIP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17514,
+      "offset": 17779,
       "length": 6,
       "value": "\".zip\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17646,
+      "offset": 17911,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17658,
+      "offset": 17923,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17762,
+      "offset": 18027,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18451,
+      "offset": 18716,
       "length": 35,
       "value": "\"https:\/\/tathya.uidai.gov.in\/login\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18514,
+      "offset": 18779,
       "length": 3,
       "value": "503"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18537,
+      "offset": 18802,
       "length": 77,
       "value": "\"Digio_Test---> statusCode is \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18589,
+      "offset": 18854,
       "length": 3,
       "value": "\" for url: \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18613,
+      "offset": 18878,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18836,
+      "offset": 19101,
       "length": 3,
       "value": "503"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18855,
+      "offset": 19120,
       "length": 55,
       "value": "\"UIDAI Service Down. Please Try again after some time.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19074,
+      "offset": 19339,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19158,
+      "offset": 19423,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19502,
+      "offset": 19767,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20009,
+      "offset": 20274,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20266,
+      "offset": 20531,
       "length": 15,
       "value": "\"UIDAIListener\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20361,
+      "offset": 20626,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20386,
+      "offset": 20651,
+      "length": 18,
+      "value": "\"getAadhaarNumber\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20774,
+      "length": 9,
+      "value": "\"aadhaar\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20831,
+      "length": 9,
+      "value": "\"message\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20856,
+      "length": 18,
+      "value": "\"getCaptchaNumber\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20979,
+      "length": 15,
+      "value": "\"captchaNumber\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21055,
+      "length": 9,
+      "value": "\"message\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21080,
+      "length": 10,
+      "value": "\"otpDigit\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21181,
+      "length": 11,
+      "value": "\"otpNumber\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21296,
+      "length": 9,
+      "value": "\"message\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21321,
       "length": 19,
       "value": "\"callReadShareCode\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20478,
+      "offset": 21413,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20503,
+      "offset": 21438,
       "length": 14,
       "value": "\"getShareCode\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20755,
+      "offset": 21690,
       "length": 11,
       "value": "\"shareCode\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20809,
+      "offset": 21744,
       "length": 16,
       "value": "\"cursorPosition\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20869,
+      "offset": 21804,
       "length": 11,
       "value": "\"shareCode\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20903,
+      "offset": 21838,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20975,
+      "offset": 21910,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21050,
+      "offset": 21985,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 21147,
+      "offset": 22082,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21224,
+      "offset": 22159,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21299,
+      "offset": 22234,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21324,
+      "offset": 22259,
       "length": 16,
       "value": "\"callSetCaptcha\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21532,
+      "offset": 22467,
       "length": 8,
       "value": "\"params\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21646,
+      "offset": 22581,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21671,
+      "offset": 22606,
       "length": 14,
       "value": "\"xHttpRequest\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21738,
+      "offset": 22673,
       "length": 13,
       "value": "\"responseURL\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21799,
+      "offset": 22734,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21824,
+      "offset": 22759,
       "length": 26,
       "value": "\"validateHtmlErrorMessage\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21925,
+      "offset": 22860,
       "length": 13,
       "value": "\"messageText\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21999,
+      "offset": 22934,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22024,
+      "offset": 22959,
       "length": 22,
       "value": "\"validateJSToastError\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22108,
+      "offset": 23043,
       "length": 14,
       "value": "\"toastMessage\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22170,
+      "offset": 23105,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22195,
+      "offset": 23130,
       "length": 19,
       "value": "\"XHTTPRequestError\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22955,
+      "offset": 23890,
       "length": 18,
       "value": "\"Connection error\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22984,
+      "offset": 23919,
       "length": 31,
       "value": "\"Internet interruption Occured\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23030,
+      "offset": 23965,
       "length": 7,
       "value": "\"Retry\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23052,
+      "offset": 23987,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23170,
+      "offset": 24105,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23189,
+      "offset": 24124,
       "length": 30,
       "value": "\"Loading captcha from Aadhaar\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23520,
+      "offset": 24455,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23545,
+      "offset": 24480,
       "length": 12,
       "value": "\"loadStatus\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23672,
+      "offset": 24526,
       "length": 12,
       "value": "\"statusCode\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23700,
+      "offset": 24554,
       "length": 5,
       "value": "\"000\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23733,
+      "offset": 24587,
       "length": 48,
       "value": "\"Digio_Error: Resource load error on login page\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23852,
+      "offset": 24706,
       "length": 3,
       "value": "000"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23871,
+      "offset": 24725,
       "length": 35,
       "value": "\"resource load error on login page\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23946,
+      "offset": 24800,
       "length": 12,
       "value": "\"statusCode\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23974,
+      "offset": 24828,
       "length": 5,
       "value": "\"001\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24391,
+      "offset": 24952,
+      "length": 20,
+      "value": "\"UIDAITimerListener\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 25052,
+      "length": 9,
+      "value": "\"message\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 25077,
+      "length": 10,
+      "value": "\"otpTimer\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 25138,
+      "length": 9,
+      "value": "\"otpTime\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 25623,
       "length": 21,
       "value": "\"tathya.uidai.gov.in\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24503,
+      "offset": 25735,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24787,
+      "offset": 25902,
       "length": 11,
       "value": "\"userAgent\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24912,
+      "offset": 26027,
       "length": 11,
       "value": "\"userAgent\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25045,
+      "offset": 26160,
       "length": 38,
       "value": "\"https:\/\/myaadhaar.uidai.gov.in\/auth\/\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25121,
+      "offset": 26236,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25430,
+      "offset": 26545,
       "length": 33,
       "value": "\"https:\/\/myaadhaar.uidai.gov.in\/\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25668,
-      "length": 35,
-      "value": "\"https:\/\/tathya.uidai.gov.in\/login\""
+      "offset": 26778,
+      "length": 15,
+      "value": "\"\/access\/login\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25800,
+      "offset": 26890,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25867,
+      "offset": 26957,
       "length": 36,
       "value": "\"https:\/\/tathya.uidai.gov.in\/access\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 26021,
+      "offset": 27111,
       "length": 44,
       "value": "\"https:\/\/tathya.uidai.gov.in\/invalidsession\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 26222,
+      "offset": 27312,
       "length": 35,
       "value": "\"https:\/\/tathya.uidai.gov.in\/login\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26355,
+      "offset": 27445,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26959,
+      "offset": 28049,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27160,
+      "offset": 28250,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27385,
+      "offset": 28475,
       "length": 64,
       "value": "\"Digio ---->> didFail to load KYC \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27448,
+      "offset": 28538,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27822,
+      "offset": 28912,
       "length": 97,
       "value": "\"Digio --->> webview didFailProvisionalNavigation load with error: \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27918,
+      "offset": 29008,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 29453,
+      "length": 16,
+      "value": "\"active session\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28605,
+      "offset": 29503,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28892,
+      "offset": 29554,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 28912,
+      "offset": 29772,
+      "length": 18,
+      "value": "\"setFocusCaptcha \""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 29882,
+      "length": 18,
+      "value": "\"setFocusAadhaar \""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 30216,
+      "length": 20,
+      "value": "\"xhr request \""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 30235,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 29015,
+      "offset": 30338,
+      "length": 21,
+      "value": "\"generateOTPForOAuth\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 30435,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 30685,
+      "length": 17,
+      "value": "\"generateCaptcha\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 30774,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 30794,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 30978,
       "length": 14,
       "value": "\"statusDetail\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 29128,
+      "offset": 31091,
       "length": 15,
       "value": "\"manifest.json\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 31124,
+      "length": 21,
+      "value": "\"downloadOfflineEkyc\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29207,
+      "offset": 31209,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 29393,
+      "offset": 31395,
       "length": 33,
       "value": "\"https:\/\/myaadhaar.uidai.gov.in\/\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29644,
+      "offset": 31646,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 29799,
-      "length": 293,
-      "value": "\"    (function(){\n        var mainMessage = document.getElementById('main-message');\n        var otpMessage = document.getElementById('otp-message');\n        mainMessage.innerHTML = \"\";\n        otpMessage.innerHTML = \"\";\n    })();\""
+      "offset": 31801,
+      "length": 334,
+      "value": "\"    (function(){\n        var mainMessage = document.getElementsByClassName('login-section__error')[0];\n        var otpMessage = document.getElementsByClassName('form-section__otp-text')[0];\n        mainMessage.innerHTML = \"\";\n        otpMessage.innerHTML = \"\";\n    })();\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 30394,
-      "length": 721,
-      "value": "\"    (function(){\n\n        var mainMessage = document.getElementById('main-message').innerHTML;\n        var otpMessage = document.getElementById('otp-message').innerHTML;\n        if(mainMessage){\n            var message = {\"message\" : \"validateHtmlErrorMessage\", \"messageText\" : mainMessage };\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n        }\n        if(otpMessage){\n            var message = {\"message\" : \"validateHtmlErrorMessage\", \"messageText\":otpMessage};\n\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n        }\n})();\""
+      "offset": 32437,
+      "length": 1370,
+      "value": "\"    (function(){\n\n        var mainMessage = document.getElementsByClassName('login-section__error')[0];\n        if(window.messageChangeObserver) {\n            var message = {\"message\" : \"validateHtmlErrorMessage\", \"messageText\" : mainMessage.innerHTML };\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n            return;\n        }\n       const config = {characterData: true, attributes: true, childList: true, subtree: true };\n       const callback = (mutationList, observer) => {\n            for (const mutation of mutationList) {\n                 var mainMessage = document.getElementsByClassName('login-section__error')[0];\n                 var message = {\"message\" : \"validateHtmlErrorMessage\", \"messageText\" : mainMessage.innerHTML };\n                 window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n            }\n         };\n    window.messageChangeObserver = new MutationObserver(callback);\n    window.messageChangeObserver.observe(mainMessage, config);\n    var message = {\"message\" : \"validateHtmlErrorMessage\", \"messageText\" : mainMessage.innerHTML };\n    window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n})();\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 34281,
+      "length": 1,
+      "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 31629,
+      "offset": 34306,
+      "length": 1444,
+      "value": "\"    (function(){\n\n        var otpMessage = document.getElementsByClassName('form-section__otp-text')[0];\n        if(window.otpChangeObserver) {\n            var message = {\"message\" : \"validateHtmlErrorMessage\", \"messageText\" : otpMessage.innerHTML };\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n            return;\n        }\n       const config = {characterData: true, attributes: true, childList: true, subtree: true };\n       const callback = (mutationList, observer) => {\n            for (const mutation of mutationList) {\n                 var otpMessage = document.getElementsByClassName('form-section__otp-text')[0];\n                 var message = {\"message\" : \"validateHtmlErrorMessage\", \"messageText\" : otpMessage.innerHTML };\n                 window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n            }\n         };\n    window.otpChangeObserver = new MutationObserver(callback);\n    window.otpChangeObserver.observe(otpMessage, config);\n    var message = {\"message\" : \"validateHtmlErrorMessage\", \"messageText\" : otpMessage.innerHTML };\n    window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n})();\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 36315,
       "length": 33,
       "value": "\"https:\/\/myaadhaar.uidai.gov.in\/\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31918,
+      "offset": 36604,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 31985,
+      "offset": 36671,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 32338,
+      "offset": 37024,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32380,
+      "offset": 37066,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32422,
+      "offset": 37108,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32465,
+      "offset": 37151,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 37276,
+      "length": 60,
+      "value": "\"Digio_UIDAI_ERROR validateHtmlErrorMessage \""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 37335,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 32760,
+      "offset": 37444,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 33069,
+      "offset": 37748,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 33246,
+      "offset": 37839,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 33343,
+      "offset": 37936,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34790,
+      "offset": 39546,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34945,
+      "offset": 39701,
       "length": 11,
       "value": "\" at UIDAI\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35483,
+      "offset": 40239,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36212,
+      "offset": 40780,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36596,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 36827,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 37269,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 37318,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 37808,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 38188,
+      "offset": 41013,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38207,
+      "offset": 41032,
+      "length": 30,
+      "value": "\"Loading captcha from Aadhaar\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 41357,
+      "length": 31,
+      "value": "\" Please try again in sometime\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 41471,
+      "length": 11,
+      "value": "\" at UIDAI\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 41729,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 42249,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 42629,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 42648,
       "length": 31,
       "value": "\"Session Expired, reloading...\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38437,
+      "offset": 42878,
       "length": 18,
       "value": "\" reloading UIDAI\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38859,
+      "offset": 43295,
       "length": 52,
       "value": "\"UIDAI server error. Please try again in some time.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39153,
+      "offset": 43589,
       "length": 11,
       "value": "\" at UIDAI\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39998,
+      "offset": 44434,
       "length": 11,
       "value": "\" at UIDAI\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 41040,
+      "offset": 45476,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41198,
+      "offset": 45634,
       "length": 82,
       "value": "\"        document.getElementsByTagName('pre')[0].innerHTML;\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41470,
+      "offset": 45850,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41843,
+      "offset": 46223,
       "length": 339,
       "value": "\"    (function(){\n        var toastMessage = document.querySelectorAll('.Toastify__toast-body')[0].innerHTML;\n        var message = {\"message\":\"validateJSToastError\", \"toastMessage\":toastMessage};\n        window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n\n})()\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 42585,
+      "offset": 46965,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 42687,
+      "offset": 47067,
       "length": 94,
       "value": "\"We couldn't complete your request due to temporary errors in accessing our backend services.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 43019,
+      "offset": 47399,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43038,
+      "offset": 47418,
       "length": 72,
       "value": "\"We couldn't complete your request due to temporary error at UIDAI end.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43431,
+      "offset": 47811,
       "length": 26,
       "value": "\"***DIGIO_TEST->>> \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43456,
+      "offset": 47836,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 44311,
+      "offset": 48691,
       "length": 40,
       "value": "\"Server is unable to handle the request\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 44483,
+      "offset": 48863,
       "length": 40,
       "value": "\"Server is unable to handle the request\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 44590,
+      "offset": 48970,
       "length": 6,
       "value": "\"null\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 44655,
+      "offset": 49035,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 45115,
+      "offset": 49495,
       "length": 314,
       "value": "\"    (function(){\n        var mainMessage = document.getElementById('message').innerText;\n        var message = {\"message\": \"validateHtmlErrorMessage\", \"messageText\": mainMessage};\n        window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n})()\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 45814,
+      "offset": 50194,
       "length": 359,
       "value": "\"    (function(){\n        var shareCode = document.querySelector('input[name=\"shareCode\"]');\n        var message = {\"message\" : \"getShareCode\", \"shareCode\": shareCode.value, \"cursorPosition\": shareCode.selectionStart};\n        window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n    })();\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 46531,
+      "offset": 50911,
       "length": 214,
       "value": "\"    var inputElement = document.querySelector('input[name=\"shareCode\"]')\n    inputElement.value += \"1\"\n    inputElement.value = inputElement.value.slice(0,-1);\n    \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 47085,
+      "offset": 51465,
       "length": 395,
       "value": "\"        window.onload = (function(){\n            var inputElement = document.querySelector('input[name=\"shareCode\"]');\n            inputElement.setAttribute('pattern','[0-9]*');\n            inputElement.setAttribute('inputmode','numeric');\n            inputElement.focus();\n            inputElement.click();\n        })();\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 47911,
+      "offset": 52291,
       "length": 391,
       "value": "\"    (function(){\n        var inputElement = document.querySelector('input[name=\"shareCode\"]');\n        inputElement.addEventListener('keyup', function(event){\n            var message = {\"message\" : \"callReadShareCode\"};\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n        });\n    })();\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 48736,
-      "length": 74,
-      "value": "\"    document.getElementById('submit-btn').click();\""
+      "offset": 53189,
+      "length": 240,
+      "value": "\"    (function(){\n        var submitBtn = document.getElementsByClassName('form-section__resend-otp-button')[0];\n        if(submitBtn){submitBtn.click();}\n})();\n\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49218,
+      "offset": 53837,
       "length": 52,
       "value": "\"document.getElementsByTagName('button')[1].click()\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 49607,
+      "offset": 54226,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49690,
-      "length": 53,
-      "value": "\"document.getElementsByTagName('button')[0].click();\""
+      "offset": 54309,
+      "length": 431,
+      "value": "\"    (function(){\n        var captchaBlock = document.getElementsByClassName('form-section__captcha-box')[0].childNodes[0];\n        var retryButton = document.getElementsByClassName('form-section__captcha-box')[0];\n        if(!captchaBlock) return; captchaBlock.firstChild.src = '';\n        retryButton.lastChild.click();\n})();\n\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 55154,
+      "length": 1,
+      "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50128,
-      "length": 365,
-      "value": "\"    (function(){\n        var finalCaptcha = document.getElementById('captcha_block').firstChild.getAttribute('src');\n        var message = {\"message\":\"callSetCaptcha\", \"params\": finalCaptcha};\n        window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n})();\n\""
+      "offset": 55180,
+      "length": 487,
+      "value": "\"    (function(){\n        var captchaBlock = document.getElementsByClassName('form-section__captcha-box')[0].childNodes[0];\n        var finalCaptcha = captchaBlock.firstChild.getAttribute('src');\n        var message = {\"message\":\"callSetCaptcha\", \"params\": finalCaptcha};\n        window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n})();\n\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50899,
+      "offset": 56124,
       "length": 25,
       "value": "\"data:image\/jpeg;base64,\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 50977,
+      "offset": 56202,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51415,
+      "offset": 56508,
+      "length": 28,
+      "value": "\"error in setCaptcha method\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 56638,
       "length": 508,
       "value": "\"    (function(){\n        var cards = document.querySelectorAll('.service-card');\n        console.log(\"starting\" + cards);\n        if(!cards) return;\n        for(let i = 0; i < cards.length; i++){\n            console.log(cards[i]);\n            if(cards[i].innerHTML.toLowerCase().includes('offline ekyc')){\n                cards[i].click();\n                break;\n            }\n        }\n    })();\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 52307,
+      "offset": 57530,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52443,
+      "offset": 57666,
       "length": 213,
       "value": "\"    var element = document.querySelector('input[name=\"otp\"]');\n    element.value = \"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52562,
+      "offset": 57785,
       "length": 1,
       "value": "\"\";\n    element.dispatchEvent(new KeyboardEvent('keyup',{'key':'ENTER'}));\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 53048,
+      "offset": 58271,
       "length": 102,
       "value": "\"    document.querySelector('input[name=\"uid\"]').value = \"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 53136,
+      "offset": 58359,
       "length": 1,
       "value": "\"\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 53575,
+      "offset": 58798,
       "length": 105,
       "value": "\"    document.querySelector('input[name=\"captcha\"]').value = \"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 53666,
+      "offset": 58889,
       "length": 1,
       "value": "\"\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 54046,
-      "length": 43,
-      "value": "\"document.getElementById('submit').click()\""
+      "offset": 59274,
+      "length": 233,
+      "value": "\"    (function(){\n             var inputElement = document.querySelector('button[class=\"button_btn__A84dV\"]');\n             inputElement.click();\n})();\n\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 54421,
+      "offset": 59848,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 54546,
-      "length": 47,
-      "value": "\"document.getElementById('submit-btn').click()\""
+      "offset": 59973,
+      "length": 240,
+      "value": "\"    (function(){\n        var submitBtn = document.getElementsByClassName('form-section__button')[0].firstChild;\n        if(submitBtn){submitBtn.click();}\n})();\n\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 60019,
+      "offset": 61140,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 60170,
+      "offset": 61291,
       "length": 15,
       "value": "\"WKContentView\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 60212,
+      "offset": 61333,
       "length": 100,
       "value": "\"***DIGIO_TEST->>> keyboardDisplayRequiresUserAction extension: Cannot find the WKContentView class\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 60410,
+      "offset": 61531,
       "length": 68,
       "value": "\"_startAssistingNode:userIsInteracting:blurPreviousNode:userObject:\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 60551,
+      "offset": 61672,
       "length": 90,
       "value": "\"_startAssistingNode:userIsInteracting:blurPreviousNode:changingActivityState:userObject:\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 60714,
+      "offset": 61835,
       "length": 87,
       "value": "\"_elementDidFocus:userIsInteracting:blurPreviousNode:changingActivityState:userObject:\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "StringLiteral",
-      "offset": 60874,
+      "offset": 61995,
       "length": 86,
       "value": "\"_elementDidFocus:userIsInteracting:blurPreviousNode:activityStateChanges:userObject:\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 64580,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 64621,
+      "length": 1178,
+      "value": "\"(function(){\n     var inputElement = document.getElementsByClassName('form-section__text-field--inner-div')[0].firstChild.childNodes[1];\n     var newReadingInputBox = document.getElementsByClassName('form-section__text-field')[0].firstChild.firstChild.childNodes[0].childNodes[1];\n     try {\n     if(inputElement) {\n     inputElement.setAttribute('pattern', '[0-9]*');\n     inputElement.setAttribute('inputmode', 'numeric');\n     inputElement.focus();\n     inputElement.click();\n     }\n     } catch(error) {\n     if(newReadingInputBox) {\n     newReadingInputBox.setAttribute('pattern', '[0-9]*');\n     newReadingInputBox.setAttribute('inputmode', 'numeric');\n     newReadingInputBox.focus();\n     newReadingInputBox.click();\n     }\n     }\n     })();\n\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 66222,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 66250,
+      "length": 483,
+      "value": "\"    (function(){\n        var inputElement = document.getElementsByClassName('form-section__captcha-field')[0].firstChild.firstChild.childNodes[0].childNodes[1];\n        if(!inputElement) return;\n        inputElement.focus();\n        inputElement.setSelectionRange(0, inputElement.value.length);\n        inputElement.click();\n})();\n\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 67164,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 67192,
+      "length": 480,
+      "value": "\"    (function(){\n        var inputElement = document.getElementsByName('otp')[0];\n        if(inputElement) {\n        inputElement.setAttribute('pattern', '[0-9]*');\n        inputElement.setAttribute('inputmode', 'numeric');\n        inputElement.focus();\n        inputElement.click();\n    }\n})();\n\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 68092,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 68132,
+      "length": 1284,
+      "value": "\"(function(){\n     var inputElement = document.getElementsByClassName('form-section__text-field--inner-div')[0].firstChild.childNodes[1];\n     var newReadingInputBox = document.getElementsByClassName('form-section__text-field')[0].firstChild.firstChild.childNodes[0].childNodes[1];\n     try {\n     if(inputElement) {\n     inputElement.value = '';\n     inputElement.setAttribute('pattern', '[0-9]*');\n     inputElement.setAttribute('inputmode', 'numeric');\n     inputElement.focus();\n     inputElement.click();\n     }\n     } catch(error) {\n     if(newReadingInputBox) {\n     newReadingInputBox.value = '';\n     newReadingInputBox.setAttribute('pattern', '[0-9]*');\n     newReadingInputBox.setAttribute('inputmode', 'numeric');\n     newReadingInputBox.focus();\n     newReadingInputBox.click();\n     }\n     }\n     })();\n\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 69892,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 69918,
+      "length": 772,
+      "value": "\"    (function(){\n        var inputElement = document.getElementsByClassName('form-section__text-field--inner-div')[0].firstChild.childNodes[1];\n        if(!inputElement) return;\n        inputElement.addEventListener ('keyup',function(event){\n            var message = {\"message\":\"getAadhaarNumber\", \"aadhaar\": inputElement.value};\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n        });\n        var messagee = {\"message\":\"getAadhaarNumber\", \"aadhaar\": ''};\n        window.webkit.messageHandlers.UIDAIListener.postMessage(messagee);\n})();\n\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 71128,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 71153,
+      "length": 801,
+      "value": "\"    (function(){\n        var inputElement = document.getElementsByClassName('form-section__captcha-field')[0].firstChild.firstChild.childNodes[0].childNodes[1];\n        if(!inputElement) return;\n        inputElement.addEventListener ('keyup',function(event){\n            var message = {\"message\":\"getCaptchaNumber\", \"captchaNumber\": inputElement.value};\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n        });\n        var messagee = {\"message\":\"getCaptchaNumber\", \"captchaNumber\": ''};\n        window.webkit.messageHandlers.UIDAIListener.postMessage(messagee);\n})();\n\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 72402,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 72427,
+      "length": 655,
+      "value": "\"    (function(){\n        var inputElement = document.getElementsByName('otp')[0];\n        if(!inputElement) return;\n             inputElement.addEventListener ('keyup',function(event){\n            var message = {\"message\":\"otpDigit\", \"otpNumber\": inputElement.value};\n            window.webkit.messageHandlers.UIDAIListener.postMessage(message);\n        });\n        var messagee = {\"message\":\"otpDigit\", \"otpNumber\": ''};\n        window.webkit.messageHandlers.UIDAIListener.postMessage(messagee);\n})();\n\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 73489,
+      "length": 861,
+      "value": "\"    (function(){\n        var resendOtp = document.getElementsByClassName('form-section__resend-otp-text')[0];\n        if(window.resendOtpObserver) return;\n            const config = {characterData: true, attributes: true, childList: true, subtree: true };\n            const callback = (mutationList, observer) => {\n                for (const mutation of mutationList) {\n                    var message = {\"message\":\"otpTimer\", \"otpTime\": resendOtp.innerHTML};\n                    window.webkit.messageHandlers.UIDAITimerListener.postMessage(message);\n                    }\n                }\n            window.resendOtpObserver = new MutationObserver(callback);\n            window.resendOtpObserver.observe(resendOtp, config);\n})();\n\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/KycSecondPageController.swift",
@@ -12108,184 +12675,289 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 758,
+      "offset": 781,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 811,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "StringLiteral",
-      "offset": 894,
+      "offset": 971,
       "length": 44,
       "value": "\"Enter OTP Sent To Registered Mobile Number\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1190,
+      "offset": 1267,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1221,
+      "offset": 1298,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1255,
+      "offset": 1332,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1267,
+      "offset": 1344,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1992,
+      "offset": 1799,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1828,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1838,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1872,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1974,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2290,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2019,
+      "offset": 2317,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2159,
+      "offset": 2426,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2637,
+      "offset": 2453,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2540,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2709,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2741,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3378,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2879,
+      "offset": 3620,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3149,
+      "offset": 3890,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3267,
+      "offset": 3947,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "StringLiteral",
-      "offset": 3309,
+      "offset": 3989,
       "length": 25,
       "value": "\"Resend Otp Limit Exceed\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3345,
+      "offset": 4025,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3427,
+      "offset": 4107,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3502,
+      "offset": 4508,
       "length": 2,
-      "value": "60"
+      "value": "14"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3596,
+      "offset": 4612,
       "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3676,
-      "length": 4,
-      "value": "true"
+      "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3838,
+      "offset": 4622,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4667,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4775,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4840,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "StringLiteral",
-      "offset": 3891,
+      "offset": 4884,
       "length": 33,
       "value": "\"Resend in \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "StringLiteral",
-      "offset": 3915,
+      "offset": 4908,
       "length": 7,
       "value": "\" seconds\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3951,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4009,
+      "offset": 4982,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4058,
+      "offset": 5035,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 5176,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "FloatLiteral",
+      "offset": 5188,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4182,
-      "length": 2,
-      "value": "60"
+      "offset": 5316,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5470,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5502,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Helpers\/DigioCommonHelper.swift",
@@ -12473,111 +13145,146 @@
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2004,
-      "length": 27,
-      "value": "\"OTP Generation Successful\""
+      "length": 48,
+      "value": "\"Successfully Generated One Time Password (OTP)\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2096,
+      "offset": 2117,
       "length": 44,
       "value": "\"Aadhaar number does not have mobile number\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2189,
+      "offset": 2210,
       "length": 29,
       "value": "\"Captcha value doesn't match\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2288,
-      "length": 49,
-      "value": "\"Internal Server Error during Captcha Validation\""
+      "offset": 2309,
+      "length": 33,
+      "value": "\"Error during Captcha Validation\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2403,
-      "length": 45,
-      "value": "\"Internal Server Error during OTP Generation\""
+      "offset": 2408,
+      "length": 29,
+      "value": "\"Error during OTP Generation\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2482,
+      "length": 24,
+      "value": "\"Unable to generate OTP\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 2552,
+      "length": 25,
+      "value": "\"Captcha session expired\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 2611,
       "length": 13,
       "value": "\"Invalid OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2552,
-      "length": 37,
-      "value": "\"Session Expired. Please Login Again\""
+      "offset": 2659,
+      "length": 20,
+      "value": "\"OTP Flooding error\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2657,
-      "length": 48,
-      "value": "\"Invalid or Expired Session. Please login again\""
+      "offset": 2714,
+      "length": 22,
+      "value": "\"Exceeded maximum OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2749,
+      "offset": 2781,
+      "length": 24,
+      "value": "\"Unable to Validate OTP\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 2862,
+      "length": 17,
+      "value": "\"Session Expired\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 2947,
+      "length": 28,
+      "value": "\"Invalid or Expired Session\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 3019,
       "length": 23,
       "value": "\"Internal Server Error\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2838,
+      "offset": 3108,
       "length": 45,
       "value": "\"Internal Server Error during Authentication\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2958,
+      "offset": 3228,
       "length": 54,
       "value": "\"UIDAI could not be loaded please try after some time\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3068,
+      "offset": 3338,
       "length": 35,
       "value": "\"UIDAI Website could not be loaded\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3232,
+      "offset": 3502,
       "length": 13,
       "value": "\"REQUEST OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3285,
+      "offset": 3555,
       "length": 17,
       "value": "\"AGREE & PROCEED\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3336,
+      "offset": 3606,
       "length": 13,
       "value": "\"FINISH eKYC\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3491,
+      "offset": 3761,
       "length": 16,
       "value": "\"iosKycListener\""
     },

@@ -75,6 +75,7 @@ public class DigioKycBuilder {
 public enum DigioEnvironment : Swift.String {
   case PRODUCTION
   case SANDBOX
+  case DEV
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {

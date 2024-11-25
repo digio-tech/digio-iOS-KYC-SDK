@@ -6,11 +6,11 @@
 	<dict>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/objects-13.0+.nib</key>
 		<data>
-		veiIZTTsXcua5momaUnAsyZhilw=
+		OhYTXGdfeiWrskgU4KLrww4ewDw=
 		</data>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/runtime.nib</key>
 		<data>
-		veiIZTTsXcua5momaUnAsyZhilw=
+		OhYTXGdfeiWrskgU4KLrww4ewDw=
 		</data>
 		<key>FormStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/objects-13.0+.nib</key>
 		<data>
-		kuprzisZlmXVQr4CQHojXEjbRbE=
+		kAuhg2Z4CZUhSUlrRGi8GgkcQz4=
 		</data>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/runtime.nib</key>
 		<data>
-		tGjPLALY8zkcpNpi9/hx2/cPuPo=
+		lTHTfErKyPlLYCnRGyIOXdFxs44=
 		</data>
 		<key>FormStoryboard.storyboardc/szv-nj-hJM-view-Rmc-E7-Eus.nib/objects-13.0+.nib</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/DigiokycSDK-Swift.h</key>
 		<data>
-		9yOAqdIQeY9bhHbGQJ3KjsV8+tU=
+		mzfTKlqHlOK8cxQksYwGRfrQHrE=
 		</data>
 		<key>Headers/DigiokycSDK.h</key>
 		<data>
@@ -66,47 +66,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ciH12lstvr0PpvQk7Fx+hqrTVo4=
+		HybBwjKWwzDDarVdCwJTrNiJXLM=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xkHFYtxH6HzJHS3e20Jj9IaQqUk=
+		wFa8CP64vUGQSjcEuC2VWGpIFZU=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		IVvGzT/GTVORIKhXMPkhyCOaFHM=
+		5VQ75/WWIxbL7KSJNPc81wLI1ZA=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cCtscsTOHqZF8d4Cb3uneU8rJw0=
+		fzwUtJkNBIaHHPNuzIkXejEo+DE=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IVvGzT/GTVORIKhXMPkhyCOaFHM=
+		5VQ75/WWIxbL7KSJNPc81wLI1ZA=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yol+iCAn5z//SrA7tIjqf/AHV/Y=
+		dRHemF+muIfBl3l7us6h+VyJvKc=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xkHFYtxH6HzJHS3e20Jj9IaQqUk=
+		wFa8CP64vUGQSjcEuC2VWGpIFZU=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		rLZsoyXpad76KpOwoPsJ6xpmcEo=
+		OBHZZ8Kb2OUFcuOoJpFO8eQWICA=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		W1rJeDSiNJJ2rGq4BUDhUpkplsk=
+		K8s/H3+M7fZA/4hRfU6eBf1o1H0=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rLZsoyXpad76KpOwoPsJ6xpmcEo=
+		OBHZZ8Kb2OUFcuOoJpFO8eQWICA=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3KFXz0oJWxGQGfUbfgDELWBQ+io=
+		HdJ2pqFpxJCJ+FvXmNrgAhoD7rc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -154,19 +154,19 @@
 		</data>
 		<key>newOKYCStoryboard.storyboardc/fZ7-h9-yMe-view-kAX-BF-M1h.nib/objects-13.0+.nib</key>
 		<data>
-		9e//zwlwnf8q1TK3YWGXZfFmYaI=
+		JGYbkmTWX4Haw8u5pW8MIT57VDI=
 		</data>
 		<key>newOKYCStoryboard.storyboardc/fZ7-h9-yMe-view-kAX-BF-M1h.nib/runtime.nib</key>
 		<data>
-		9e//zwlwnf8q1TK3YWGXZfFmYaI=
+		JGYbkmTWX4Haw8u5pW8MIT57VDI=
 		</data>
 		<key>newOKYCStoryboard.storyboardc/hLT-T4-dAO-view-gTy-zS-yMu.nib/objects-13.0+.nib</key>
 		<data>
-		2oo0J3AzJPQEpHN05fCU9vepOgg=
+		elIDJcX72rI2r3RlJkwgrgeopvc=
 		</data>
 		<key>newOKYCStoryboard.storyboardc/hLT-T4-dAO-view-gTy-zS-yMu.nib/runtime.nib</key>
 		<data>
-		2oo0J3AzJPQEpHN05fCU9vepOgg=
+		elIDJcX72rI2r3RlJkwgrgeopvc=
 		</data>
 		<key>newOKYCStoryboard.storyboardc/newOKYCBoard.nib/objects-13.0+.nib</key>
 		<data>
@@ -186,11 +186,11 @@
 		</data>
 		<key>newOKYCStoryboard.storyboardc/sD6-A8-tCW-view-9jg-YL-bZn.nib/objects-13.0+.nib</key>
 		<data>
-		zTpl4swLscCSw7Baut1RT/gEjeY=
+		/cDWVtG+Fg1wfMDIC6YnXLAHPLw=
 		</data>
 		<key>newOKYCStoryboard.storyboardc/sD6-A8-tCW-view-9jg-YL-bZn.nib/runtime.nib</key>
 		<data>
-		zTpl4swLscCSw7Baut1RT/gEjeY=
+		/cDWVtG+Fg1wfMDIC6YnXLAHPLw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -199,14 +199,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VZ0MAgLIwnrFHlR+YK1KJwfNihLPPCt0f3GGcb75+rE=
+			rgeyLuIEh9dHcbPKW9aHFnATXALDBXSUkRH6addQ740=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VZ0MAgLIwnrFHlR+YK1KJwfNihLPPCt0f3GGcb75+rE=
+			rgeyLuIEh9dHcbPKW9aHFnATXALDBXSUkRH6addQ740=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/Info.plist</key>
@@ -262,14 +262,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			77s0K8GwOwNhPe6P6cKPeQ46tnGcA23hJWJ/0ygw0tY=
+			5x/rRg39f7F0m8gUKR7Q5Ds2CVU/0Bc7A6SzirN16tw=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iR/o4X0WPCfaKtb4jqgeY5d+uLkNxPvzMN4dSH/dc9Y=
+			E5BjPikypcM+bHFwGcvl3tML63Y82g2cDb6AhB6twFI=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/szv-nj-hJM-view-Rmc-E7-Eus.nib/objects-13.0+.nib</key>
@@ -290,7 +290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SCieFtEn+HU1vBwPSvA263gE/DEU1q1dPEv97w4WH/0=
+			g7OtvURaaEi06VIadhrzOy+5KzhYqqmjOABUerMIHyQ=
 			</data>
 		</dict>
 		<key>Headers/DigiokycSDK.h</key>
@@ -304,70 +304,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hpl7dMN8fDdisMLz2rDsNFyHYzLfheXVIpK0lyOoqQ4=
+			SnvLI2SFw6XP1TO6FD9Vr/P834x/aU99N+CNd9Ie0Qw=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DqMlzahjFKo5ZPa5NEa8tbg6S80VaPxR1RURM5Bwv1g=
+			wyZv0q9OQU1Ij1vcg8NSPEtTMG28OqEJ1c8nSAGifPU=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VrVJCl2Ruriu6SdnEmNrOSaBf2acxv2sqZz8iKuLZ5w=
+			1sGZ6v+SAn4c/hS+mDmB4GoK9Sp6uZYrCf3KDwAiFGc=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DqMlzahjFKo5ZPa5NEa8tbg6S80VaPxR1RURM5Bwv1g=
+			wyZv0q9OQU1Ij1vcg8NSPEtTMG28OqEJ1c8nSAGifPU=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uJD4WHjVbaiTTFAJBmr6OOvQMp7yIIOFAfwY2womSOI=
+			szhnpha34Vb/utpTSWE1UY5DTpML6Kb0b/VLVbiuo+c=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hpl7dMN8fDdisMLz2rDsNFyHYzLfheXVIpK0lyOoqQ4=
+			SnvLI2SFw6XP1TO6FD9Vr/P834x/aU99N+CNd9Ie0Qw=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pbqzw3tdOrr+qEZmv8IbKauLCSlkOxJ17NSBzW2NdKg=
+			J1UpcIoP2RxbIcQU0eoP54oQM9PRbQKg3A42V63H8bs=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x5Y8U3jUKCsCGo9V7jS6qkLmK9sXoxrvL6bCwgxzG8Q=
+			yTCHLrsLAj0K0sCFHDHRRshGyo/7JnuUqgprRYcgD1I=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pbqzw3tdOrr+qEZmv8IbKauLCSlkOxJ17NSBzW2NdKg=
+			J1UpcIoP2RxbIcQU0eoP54oQM9PRbQKg3A42V63H8bs=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hGjyPAG8TILkbbrHn/Qzi5brO3bhmgcip7oTTPFHCOE=
+			//QQXnql7gCPGKJGpLx9mZ+dyev9L61OY0cSvAw4PHI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -451,28 +451,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1Ql4jJqVhvZQjQRGqMukvsMt7wtNvnX3zw5YpEUeKA=
+			UhHmOsPBl+dxOKhK6rXFAlmosq63IqQKGeVTAH5nVRg=
 			</data>
 		</dict>
 		<key>newOKYCStoryboard.storyboardc/fZ7-h9-yMe-view-kAX-BF-M1h.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1Ql4jJqVhvZQjQRGqMukvsMt7wtNvnX3zw5YpEUeKA=
+			UhHmOsPBl+dxOKhK6rXFAlmosq63IqQKGeVTAH5nVRg=
 			</data>
 		</dict>
 		<key>newOKYCStoryboard.storyboardc/hLT-T4-dAO-view-gTy-zS-yMu.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yHv/fr81e3D3WxaiiF5NTgGp/o+D8rdxjHV6KPH4z+w=
+			a02Ug+SHiKeSV9oREgjqFuwlvfnjICcuUy860f+q0Os=
 			</data>
 		</dict>
 		<key>newOKYCStoryboard.storyboardc/hLT-T4-dAO-view-gTy-zS-yMu.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yHv/fr81e3D3WxaiiF5NTgGp/o+D8rdxjHV6KPH4z+w=
+			a02Ug+SHiKeSV9oREgjqFuwlvfnjICcuUy860f+q0Os=
 			</data>
 		</dict>
 		<key>newOKYCStoryboard.storyboardc/newOKYCBoard.nib/objects-13.0+.nib</key>
@@ -507,14 +507,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3uJZM3qrlF0dBc45NUj5N0LNWsn/1jCocgZ/KoJnFUw=
+			s9ok7J5WZ8iIg2i+Xn755JFE/qEK0IKOFvi5fCL6/Qc=
 			</data>
 		</dict>
 		<key>newOKYCStoryboard.storyboardc/sD6-A8-tCW-view-9jg-YL-bZn.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3uJZM3qrlF0dBc45NUj5N0LNWsn/1jCocgZ/KoJnFUw=
+			s9ok7J5WZ8iIg2i+Xn755JFE/qEK0IKOFvi5fCL6/Qc=
 			</data>
 		</dict>
 	</dict>

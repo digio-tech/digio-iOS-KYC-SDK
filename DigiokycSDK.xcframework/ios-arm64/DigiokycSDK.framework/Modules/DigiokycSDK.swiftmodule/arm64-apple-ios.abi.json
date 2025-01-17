@@ -4311,1141 +4311,1148 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNotificationCenter.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNotificationCenter.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 25,
       "value": "\"DIGIO_EVENT_TRACKER_KEY\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Stateless\/DigioStatelessSession.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Stateless\/DigioStatelessSession.swift",
       "kind": "IntegerLiteral",
       "offset": 493,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "StringLiteral",
       "offset": 1081,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "StringLiteral",
       "offset": 1112,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
       "offset": 1218,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
       "offset": 1258,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 4183,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 4214,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 4248,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 4260,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 4652,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 4681,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 4691,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 4725,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewKycFirstPageController.swift",
       "kind": "BooleanLiteral",
       "offset": 4827,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/Extensions.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/Extensions.swift",
       "kind": "BooleanLiteral",
       "offset": 3517,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/Extensions.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/Extensions.swift",
       "kind": "BooleanLiteral",
       "offset": 3566,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/Extensions.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/Extensions.swift",
       "kind": "BooleanLiteral",
       "offset": 3613,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
       "kind": "StringLiteral",
       "offset": 345,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
       "kind": "StringLiteral",
       "offset": 376,
       "length": 12,
       "value": "\"identifier\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
       "kind": "StringLiteral",
       "offset": 411,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
       "kind": "StringLiteral",
       "offset": 445,
       "length": 11,
       "value": "\"errorCode\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/DigioKycResponseObject.swift",
       "kind": "StringLiteral",
       "offset": 480,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 321,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 369,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 508,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 546,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 581,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 622,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 989,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "IntegerLiteral",
       "offset": 1029,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 1184,
       "length": 14,
       "value": "\"KycFirstPage\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 1234,
       "length": 12,
       "value": "\"KycOTPPage\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/DigioKYCconfig.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/DigioKYCconfig.swift",
       "kind": "BooleanLiteral",
       "offset": 578,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/DigioKycUtils.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/DigioKycUtils.swift",
       "kind": "Array",
       "offset": 5163,
       "length": 380,
       "value": "[[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [1, 2, 3, 4, 0, 6, 7, 8, 9, 5], [2, 3, 4, 0, 1, 7, 8, 9, 5, 6], [3, 4, 0, 1, 2, 8, 9, 5, 6, 7], [4, 0, 1, 2, 3, 9, 5, 6, 7, 8], [5, 9, 8, 7, 6, 0, 4, 3, 2, 1], [6, 5, 9, 8, 7, 1, 0, 4, 3, 2], [7, 6, 5, 9, 8, 2, 1, 0, 4, 3], [8, 7, 6, 5, 9, 3, 2, 1, 0, 4], [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]]"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/DigioKycUtils.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/DigioKycUtils.swift",
       "kind": "Array",
       "offset": 5577,
       "length": 304,
       "value": "[[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [1, 5, 7, 6, 2, 8, 3, 0, 9, 4], [5, 8, 0, 3, 7, 9, 6, 1, 4, 2], [8, 9, 1, 6, 0, 4, 3, 5, 2, 7], [9, 4, 5, 3, 1, 2, 6, 8, 7, 0], [4, 2, 8, 6, 5, 7, 3, 9, 0, 1], [2, 7, 9, 3, 8, 0, 6, 4, 1, 5], [7, 0, 4, 6, 9, 1, 3, 2, 5, 8]]"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/KycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/KycFirstPageController.swift",
       "kind": "StringLiteral",
       "offset": 877,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/KycFirstPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/KycFirstPageController.swift",
       "kind": "StringLiteral",
       "offset": 908,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2409,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2442,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2471,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2497,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioKYCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2640,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
       "kind": "StringLiteral",
       "offset": 171,
       "length": 21,
       "value": "\"LOCATION_PERMISSION\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
       "kind": "StringLiteral",
       "offset": 222,
       "length": 19,
       "value": "\"CAMERA_PERMISSION\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
       "kind": "StringLiteral",
       "offset": 275,
       "length": 23,
       "value": "\"MICROPHONE_PERMISSION\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Permissions.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 25,
       "value": "\"PHOTOLIBRARY_PERMISSION\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 957,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 996,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "BooleanLiteral",
       "offset": 1031,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 1055,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 1078,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "IntegerLiteral",
       "offset": 1115,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 1268,
       "length": 17,
       "value": "\"newKycFirstPage\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 1321,
       "length": 18,
       "value": "\"newKycSecondPage\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewBottomSheetController.swift",
       "kind": "StringLiteral",
       "offset": 1380,
       "length": 17,
       "value": "\"newKycThirdPage\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
       "offset": 753,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2285,
+      "offset": 2297,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2316,
+      "offset": 2328,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2350,
+      "offset": 2362,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2362,
+      "offset": 2374,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2888,
+      "offset": 2900,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2917,
+      "offset": 2929,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2927,
+      "offset": 2939,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2961,
+      "offset": 2973,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycThirdPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3063,
+      "offset": 3075,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/DigioKycBuilder.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/DigioKycBuilder.swift",
       "kind": "StringLiteral",
       "offset": 842,
       "length": 9,
       "value": "\"#0066ff\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/Stack.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/Stack.swift",
       "kind": "Array",
       "offset": 142,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Stateless\/DigioTaskResponse.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Stateless\/DigioTaskResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 302,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 3362,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3439,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3472,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3501,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3536,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3562,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 3709,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 3844,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 3895,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 3937,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 3982,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/DigioNewOKYCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 4025,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 922,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
       "kind": "StringLiteral",
       "offset": 1191,
       "length": 6,
       "value": "\"Back\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/ViewControllers\/DigioMainViewController.swift",
       "kind": "StringLiteral",
       "offset": 1266,
       "length": 9,
       "value": "\"#0060AB\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 781,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
       "offset": 811,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 1267,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 1298,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 1332,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 1344,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 1799,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 1828,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 1838,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "IntegerLiteral",
       "offset": 1872,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/new_okyc_flow\/NewKycSecondPageController.swift",
       "kind": "BooleanLiteral",
       "offset": 1974,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 287,
       "length": 4,
       "value": "1001"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 328,
       "length": 4,
       "value": "1002"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 372,
       "length": 5,
       "value": "-1000"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 420,
       "length": 4,
       "value": "1005"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 472,
       "length": 5,
       "value": "10012"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 522,
       "length": 5,
       "value": "10013"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 584,
       "length": 5,
       "value": "10014"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 634,
       "length": 5,
       "value": "10015"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 689,
       "length": 5,
       "value": "10016"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 735,
       "length": 5,
       "value": "10017"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 793,
       "length": 5,
       "value": "10018"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 850,
       "length": 5,
       "value": "10019"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 901,
       "length": 5,
       "value": "10020"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 955,
       "length": 4,
       "value": "1008"
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1082,
       "length": 19,
       "value": "\"Cancelled By User\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1159,
       "length": 39,
       "value": "\"Unable to load Webview. Please retry.\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1289,
       "length": 18,
       "value": "\"ID_CARD_ANALYSIS\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1337,
       "length": 12,
       "value": "\"FACE_MATCH\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1384,
       "length": 13,
       "value": "\"OFFLINE_KYC\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1434,
       "length": 7,
       "value": "\"1.2.2\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1513,
       "length": 49,
       "value": "\"https:\/\/tathya.uidai.gov.in\/generateOTPForOAuth\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1601,
       "length": 45,
       "value": "\"https:\/\/tathya.uidai.gov.in\/generateCaptcha\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1825,
       "length": 38,
       "value": "\"App-prefs:root=Privacy&path=LOCATION\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 1905,
       "length": 36,
       "value": "\"App-prefs:root=Privacy&path=CAMERA\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2096,
       "length": 48,
       "value": "\"Successfully Generated One Time Password (OTP)\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2209,
       "length": 44,
       "value": "\"Aadhaar number does not have mobile number\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2302,
       "length": 29,
       "value": "\"Captcha value doesn't match\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2401,
       "length": 33,
       "value": "\"Error during Captcha Validation\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2487,
       "length": 29,
       "value": "\"Error in validating captcha\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2582,
       "length": 29,
       "value": "\"Error during OTP Generation\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2656,
       "length": 24,
       "value": "\"Unable to generate OTP\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2726,
       "length": 25,
       "value": "\"Captcha session expired\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2785,
       "length": 13,
       "value": "\"Invalid OTP\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2833,
       "length": 20,
       "value": "\"OTP Flooding error\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2888,
       "length": 22,
       "value": "\"Exceeded maximum OTP\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 2955,
       "length": 24,
       "value": "\"Unable to Validate OTP\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 3036,
       "length": 17,
       "value": "\"Session Expired\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 3121,
       "length": 28,
       "value": "\"Invalid or Expired Session\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 3193,
       "length": 23,
       "value": "\"Internal Server Error\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 3282,
       "length": 45,
       "value": "\"Internal Server Error during Authentication\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 3402,
       "length": 54,
       "value": "\"UIDAI could not be loaded please try after some time\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
       "offset": 3512,
       "length": 35,
       "value": "\"UIDAI Website could not be loaded\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3676,
+      "offset": 3598,
+      "length": 23,
+      "value": "\"Internal server error\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 3750,
       "length": 13,
       "value": "\"REQUEST OTP\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3729,
+      "offset": 3803,
       "length": 17,
       "value": "\"AGREE & PROCEED\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3780,
+      "offset": 3854,
       "length": 13,
       "value": "\"FINISH eKYC\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3935,
+      "offset": 4009,
       "length": 16,
       "value": "\"iosKycListener\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigiokycSDK\/StorageService\/UserDefaultsManager.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/StorageService\/UserDefaultsManager.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 21,
       "value": "\"APP_REDIRECT_REASON\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 19,
       "value": "\"CANCELLED_BY_USER\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 242,
       "length": 13,
       "value": "\"OFFLINE_KYC\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 15,
       "value": "\"SESSION_START\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 349,
       "length": 16,
       "value": "\"AADHAAR_SCREEN\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 413,
       "length": 24,
       "value": "\"AADHAAR_NUMBER_ENTERED\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 478,
       "length": 17,
       "value": "\"CAPTCHA_ENTERED\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 548,
       "length": 29,
       "value": "\"UIDAI_OTP_GENERATED_CLICKED\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 627,
       "length": 26,
       "value": "\"UIDAI_RESEND_OTP_CLICKED\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 689,
       "length": 12,
       "value": "\"OTP_SCREEN\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 738,
       "length": 13,
       "value": "\"OTP_ENTERED\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 788,
       "length": 13,
       "value": "\"FINISH_EKYC\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 846,
       "length": 21,
       "value": "\"OFFLINE_KYC_SUCCESS\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 910,
       "length": 19,
       "value": "\"SHARE_CODE_SCREEN\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 976,
       "length": 23,
       "value": "\"Invalid Session UIDAI\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 1044,
       "length": 21,
       "value": "\"UIDAI_LOADING_ERROR\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 1120,
       "length": 31,
       "value": "\"ACTION_UIDAI_UPSTREAM_CONNECT\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 1202,
       "length": 27,
       "value": "\"AADHAAR_FETCHING_TIME_OUT\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 1268,
       "length": 15,
       "value": "\"AGREE_PROCEED\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 1337,
       "length": 30,
       "value": "\"ACTION_UIDAI_TEMPORARY_ERROR\""
     },
     {
-      "filePath": "\/Users\/naman\/Documents\/Digio\/iOS\/ioskycsdk\/DigioEventConstants.swift",
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigioEventConstants.swift",
       "kind": "StringLiteral",
       "offset": 1411,
       "length": 20,

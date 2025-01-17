@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/DigiokycSDK-Swift.h</key>
 		<data>
-		L7gPI86R/lxAmn2KrZo5Dsxtcdg=
+		DMtgML4iGUZbpWmj25+cAa5Gnoo=
 		</data>
 		<key>Headers/DigiokycSDK.h</key>
 		<data>
@@ -66,27 +66,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6zzZheOMcFxx1XWrF17yFldHyhk=
+		eIGvK+qfpO5JRTzP3IYT0eoV9KU=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		wFa8CP64vUGQSjcEuC2VWGpIFZU=
+		fyrN+Xb1eOBahWIvYxS1tZA3zPQ=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		5s5LbxI4axoiB2v5t17/JlcyRI4=
+		AoXtMohTDH2Sj0ikzSywVZq9mog=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		MfGZpPD7ITe5kSAGyxJVAuvNm1Y=
+		BWwSPAZrNFool3RVuKFEo6UfCFc=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		5s5LbxI4axoiB2v5t17/JlcyRI4=
+		AoXtMohTDH2Sj0ikzSywVZq9mog=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		PLXWFNc/QYPehe15AgUJva/Iam4=
+		cGorjHSW51gkw7Fb6//YqotfuQE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -270,7 +270,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQtJYFKYc/3FYTU7rmcNqvaDBM9CQEt0EQTnEw8n3uk=
+			py8BlthzQaM/WcTtRC+8Shq6ScppgH65U5S9Bt8DIk8=
 			</data>
 		</dict>
 		<key>Headers/DigiokycSDK.h</key>
@@ -284,35 +284,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SnvLI2SFw6XP1TO6FD9Vr/P834x/aU99N+CNd9Ie0Qw=
+			njKSWb04Wg9/cOqCni6S3WsqbG6MRaMgbwtCJRTHnhU=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VPN5IyJlAklKegrUwUqdJVDJ1Ua1W/1zB8tk4inUFfw=
+			DSMuVx7E8AcWIdxr+jCvnSF8Kl13RYMr3jjGf5H+7tI=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fE24trlYROU+BmBats4wj/0DMZbebqpNDSEVZ6sd3H8=
+			8cdhM2BTtpuDdRMPuyFSdCB2pgxS1+OGD7gi0gJPong=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VPN5IyJlAklKegrUwUqdJVDJ1Ua1W/1zB8tk4inUFfw=
+			DSMuVx7E8AcWIdxr+jCvnSF8Kl13RYMr3jjGf5H+7tI=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rPTC0m2q49KSEsA5wkEIlotJY9uUfDlkXcD5sCxwCpo=
+			cfE2yyd7Vv3x9czSJ47Rr/7/KKR2Z62R7t+fNYxNPds=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

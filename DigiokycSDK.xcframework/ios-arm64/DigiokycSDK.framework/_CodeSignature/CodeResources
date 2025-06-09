@@ -66,11 +66,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WfSB2Ko+jv4giEb2hcZpOzdgcFk=
+		/V/m9KDBT7w4oe9o68ndPdtedig=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9wqFo269NNpnQjX+KkkBhyj5xgw=
+		cSXFCVY6mknERiNqW8iSQIKfmS8=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		tIltKYlBsUYgklVY2RHIShV4aUE=
+		6MqxOhRSPzNgqzc7fVCQm3PHMe0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -284,7 +284,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wcM6WqjV83dHDpJgn6Ze5/JXrYAFpbn3q8eLuO5LW7A=
+			UzOnyVd7/vO4kk8ARNV9O3CplV87ZDsUWSGgnkxkloQ=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -312,7 +312,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oQj86wMyqwQVEnjYTCDbgKuLi0HisuhkN0eWeQrvKZE=
+			WzdjdNFRW+IwQZRWTk/k9jnE4DdXzG6Ug7AzotOXAXs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

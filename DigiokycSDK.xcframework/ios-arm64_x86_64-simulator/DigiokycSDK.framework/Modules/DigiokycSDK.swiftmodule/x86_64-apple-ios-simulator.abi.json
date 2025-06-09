@@ -3181,6 +3181,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -5310,6 +5320,55 @@
       "offset": 4009,
       "length": 16,
       "value": "\"iosKycListener\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 4064,
+      "length": 16,
+      "value": "\"iosUpiListener\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/AvailableUpiApp.swift",
+      "kind": "StringLiteral",
+      "offset": 412,
+      "length": 10,
+      "value": "\"app_name\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/AvailableUpiApp.swift",
+      "kind": "StringLiteral",
+      "offset": 455,
+      "length": 19,
+      "value": "\"mandate_available\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/AvailableUpiApp.swift",
+      "kind": "StringLiteral",
+      "offset": 502,
+      "length": 14,
+      "value": "\"package_name\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/AvailableUpiApp.swift",
+      "kind": "StringLiteral",
+      "offset": 540,
+      "length": 9,
+      "value": "\"handles\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/AvailableUpiApp.swift",
+      "kind": "StringLiteral",
+      "offset": 573,
+      "length": 10,
+      "value": "\"logo_url\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Networks\/Models\/AvailableUpiApp.swift",
+      "kind": "StringLiteral",
+      "offset": 606,
+      "length": 8,
+      "value": "\"scheme\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/StorageService\/UserDefaultsManager.swift",

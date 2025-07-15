@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "Akash Kumar" => "akash.kumar@digio.in" }
   spec.social_media_url   = "https://twitter.com/digio_in"
   spec.platform     = :ios
-  spec.ios.deployment_target = "11.0"
+  spec.ios.deployment_target = "15.6"
   spec.swift_version = "5.7.2"
   spec.source       = { :git => "https://github.com/digio-tech/digio-iOS-KYC-SDK.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "DigiokycSDK.xcframework"

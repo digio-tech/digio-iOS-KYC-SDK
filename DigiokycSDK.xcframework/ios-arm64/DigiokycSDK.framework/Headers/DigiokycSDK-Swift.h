@@ -280,6 +280,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
+@import CoreLocation;
+@import ObjectiveC;
+@import UIKit;
 #endif
 
 #endif
@@ -301,6 +305,245 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+
+@class NSString;
+@class NSNumber;
+
+SWIFT_PROTOCOL("_TtP11DigiokycSDK27CameraEventListenerDelegate_")
+@protocol CameraEventListenerDelegate
+- (void)onImageCaptured:(NSString * _Nonnull)type :(NSInteger)count :(NSInteger)total :(NSString * _Nonnull)imagePath :(NSNumber * _Nullable)darkness :(NSNumber * _Nullable)lightness :(NSNumber * _Nullable)sharpness;
+- (void)onFaceDetected:(NSInteger)x :(NSInteger)y :(NSInteger)width :(NSInteger)height :(NSNumber * _Nullable)leftEyeOpenProbability :(NSNumber * _Nullable)rightEyeOpenProbability :(NSNumber * _Nullable)smilingProbability :(NSNumber * _Nullable)headEulerAngleX :(NSNumber * _Nullable)headEulerAngleY :(NSNumber * _Nullable)headEulerAngleZ :(NSNumber * _Nullable)darkness :(NSNumber * _Nullable)lightness :(NSNumber * _Nullable)sharpness :(BOOL)isMultiface :(NSInteger)numberOfFaces;
+- (void)onFaceUndetected;
+- (void)onEndCapture;
+- (void)onError:(NSString * _Nonnull)error;
+- (void)onMessage:(NSString * _Nonnull)message;
+- (void)onPermissionDenied;
+- (void)onQRCodeScanned:(NSString * _Nonnull)content;
+@end
+
+@class NSCoder;
+
+/// This view is responsible to draw:
+/// <ul>
+///   <li>
+///     face detection box;
+///   </li>
+///   <li>
+///     face contours;
+///   </li>
+/// </ul>
+SWIFT_CLASS("_TtC11DigiokycSDK17CameraGraphicView")
+@interface CameraGraphicView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
+- (void)drawRect:(CGRect)rect;
+- (void)layoutSubviews;
+@end
+
+@class UIColor;
+
+/// Class responsible to handle the camera operations.
+SWIFT_CLASS("_TtC11DigiokycSDK10CameraView")
+@interface CameraView : UIView
+@property (nonatomic, strong) id <CameraEventListenerDelegate> _Nullable cameraEventListener;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (void)layoutSubviews;
+/// Start camera preview if has permission.
+- (void)startPreview;
+/// Start capture type: none, face, barcode or frame.
+/// Must have started preview, see <code>startPreview</code>.
+/// precondition:
+/// value string must be one of <code>"none"</code>, <code>"face"</code>, <code>"qrcode"</code>, <code>"frame"</code> and must have started preview.
+/// <ul>
+///   <li>
+///     Parameters: <code>"none"</code> | <code>"face"</code> | <code>"qrcode"</code> | <code>"frame"</code>.
+///   </li>
+/// </ul>
+- (void)startCaptureType:(NSString * _Nonnull)captureType;
+/// Stop camera image capture.
+- (void)stopAnalyzer;
+/// Destroy camera preview.
+- (void)destroy;
+- (void)restartCapture:(NSString * _Nonnull)type;
+- (void)capture;
+/// Toggle between Front and Back Camera.
+- (void)toggleCameraLens;
+/// Set camera lens: “front” or “back”.
+/// <ul>
+///   <li>
+///     Parameters: “back” || “front”
+///   </li>
+/// </ul>
+- (void)setCameraLens:(NSString * _Nonnull)cameraLens;
+/// Get current camera lens.
+///
+/// returns:
+/// “front” || “back”.
+/// Default value is “front”.
+- (NSString * _Nonnull)getCameraLens SWIFT_WARN_UNUSED_RESULT;
+/// Set number of face/frame file images to create.
+/// \param numberOfImages The number of images to create.
+/// Default value is 0.
+///
+- (void)setNumberOfImages:(NSInteger)numberOfImages;
+/// Set saving face/frame images time interval in milli seconds.
+/// \param faceTimeBetweenImages The time in milli seconds.
+/// Default value is <code>1000</code>.
+///
+- (void)setTimeBetweenImages:(int64_t)timeBetweenImages;
+/// Set face image width to be created.
+/// \param width The file image width in pixels.
+/// Default value is <code>200</code>.
+///
+- (void)setOutputImageWidth:(NSInteger)width;
+/// Set face image height to be created.
+/// \param height The file image height in pixels.
+/// Default value is <code>200</code>.
+///
+- (void)setOutputImageHeight:(NSInteger)height;
+/// Set to enable/disable save images when capturing face/frame.
+/// \param enable The indicator to enable or disable the face/frame save images.
+/// Default value is <code>false</code>.
+///
+- (void)setSaveImageCaptured:(BOOL)enable;
+/// Set to enable/disable detection box when face/qrcode detected.
+/// The detection box is the the face/qrcode bounding box normalized to UI.
+/// \param enable The indicator to enable/disable detection box.
+/// Default value is <code>false</code>.
+///
+- (void)setDetectionBox:(BOOL)enable;
+/// Set detection box ARGB color.
+/// \param alpha The alpha value.
+///
+/// \param red The red value.
+///
+/// \param green The green value.
+///
+/// \param blue The blue value.
+/// Default value is <code>(1.0, 1.0, 1.0, 1.0)</code>.
+///
+- (void)setDetectionBoxColor:(float)alpha :(float)red :(float)green :(float)blue;
+/// Set a face/qrcode minimum size to detect in percentage related with the camera preview.
+/// For example, if set <code>0.5</code>, will capture face/qrcode with the detection box width occupying
+/// at least 50% of the screen width.
+/// \param minimumSize Value between <code>0</code> and <code>1</code>.
+/// Default value is <code>0.0</code>,
+///
+- (void)setDetectionMinSize:(float)minimumSize;
+/// Set a face/qrcode maximum size to detect in percentage related with the camera preview.
+/// For example, if set <code>0.7</code>, will capture face/qrcode with the detection box width occupying
+/// until 70% of the screen width.
+/// \param maximumSize Value between <code>0</code> and <code>1</code>.
+/// Default value is <code>1.0</code>.
+///
+- (void)setDetectionMaxSize:(float)maximumSize;
+/// Represents the percentage.
+/// Positive value enlarges and negative value reduce the top side of the detection.
+/// Use the <code>setDetectionBox</code> to have a visual result.
+/// Default value: <code>0</code>
+@property (nonatomic) float detectionTopSize;
+/// Represents the percentage.
+/// Positive value enlarges and negative value reduce the right side of the detection.
+/// Use the <code>setDetectionBox</code> to have a visual result.
+/// Default value: <code>0</code>
+@property (nonatomic) float detectionRightSize;
+/// Represents the percentage.
+/// Positive value enlarges and negative value reduce the bottom side of the detection.
+/// Use the <code>setDetectionBox</code> to have a visual result.
+/// Default value: <code>0</code>
+@property (nonatomic) float detectionBottomSize;
+/// Represents the percentage.
+/// Positive value enlarges and negative value reduce the left side of the detection.
+/// Use the <code>setDetectionBox</code> to have a visual result.
+/// Default value: <code>0</code>
+@property (nonatomic) float detectionLeftSize;
+/// Set to enable/disable face contours when face detected.
+/// \param enable The indicator to enable/disable face contours.
+/// Default value is <code>false</code>.
+///
+- (void)setFaceContours:(BOOL)enable;
+/// Set face contours ARGB color.
+/// \param alpha The alpha value.
+///
+/// \param red The red value.
+///
+/// \param green The green value.
+///
+/// \param blue The blue value.
+/// Default value is <code>(1.0, 1.0, 1.0, 1.0)</code>.
+///
+- (void)setFaceContoursColor:(float)alpha :(float)red :(float)green :(float)blue;
+/// Set to enable/disable the device torch. Available only to camera lens “back”.
+/// \param enable The indicator to enable/disable the torch.
+/// Default value is <code>false</code>.
+///
+- (void)setTorch:(BOOL)enable;
+/// Set to apply enable/disable region of interest.
+/// \param enable The indicator to enable/disable region of interest.
+/// Default value is <code>false</code>.
+///
+- (void)setROI:(BOOL)enable;
+/// Camera preview top distance in percentage.
+/// \param percentage Value between <code>0</code> and <code>1</code>. Represents the percentage.
+/// Default value is <code>0.0</code>.
+///
+- (void)setROITopOffset:(float)topOffset;
+/// Camera preview right distance in percentage.
+/// \param percentage Value between <code>0</code> and <code>1</code>. Represents the percentage.
+/// Default value is <code>0.0</code>.
+///
+- (void)setROIRightOffset:(float)rightOffset;
+/// Camera preview bottom distance in percentage.
+/// \param percentage Value between <code>0</code> and <code>1</code>. Represents the percentage.
+/// Default value is <code>0.0</code>.
+///
+- (void)setROIBottomOffset:(float)bottomOffset;
+/// Camera preview left distance in percentage.
+/// \param percentage Value between <code>0</code> and <code>1</code>. Represents the percentage.
+/// Default value is <code>0.0</code>.
+///
+- (void)setROILeftOffset:(float)leftOffset;
+/// Set to enable/disable region of interest offset visibility.
+/// \param enable The indicator to enable/disable region of interest visibility.
+/// Default value is <code>false</code>.
+///
+- (void)setROIAreaOffset:(BOOL)enable;
+/// Set region of interest area offset color.
+/// \param alpha Values between <code>0</code> and <code>1</code>.
+///
+/// \param red Values between <code>0</code> and <code>1</code>.
+///
+/// \param green Values between <code>0</code> and <code>1</code>.
+///
+/// \param blue Values between <code>0</code> and <code>1</code>.
+/// Default value is <code>(0.4, 1.0, 1.0, 1.0)</code>.
+///
+- (void)setROIAreaOffsetColor:(float)alpha :(float)red :(float)green :(float)blue;
+- (void)setFaceDetectionStorkeColorFrom:(UIColor * _Nonnull)color;
+- (void)setSuggestionMessageWithMessage:(NSString * _Nullable)message textColor:(UIColor * _Nonnull)textColor backgroundColor:(UIColor * _Nonnull)backgroundColor;
+- (void)setMinimumFaceSize:(CGFloat)size;
+@end
+
+typedef SWIFT_ENUM(NSInteger, CaptureType, open) {
+  CaptureTypeNONE = 0,
+  CaptureTypeFACE = 1,
+  CaptureTypeQRCODE = 2,
+  CaptureTypeFRAME = 3,
+};
+
+
+SWIFT_CLASS("_TtC11DigiokycSDK17PermissionManager")
+@interface PermissionManager : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class CLLocationManager;
+
+@interface PermissionManager (SWIFT_EXTENSION(DigiokycSDK)) <CLLocationManagerDelegate>
+- (void)locationManager:(CLLocationManager * _Nonnull)manager didChangeAuthorizationStatus:(CLAuthorizationStatus)status;
+@end
+
 
 
 

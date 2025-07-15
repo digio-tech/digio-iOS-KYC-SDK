@@ -1,0 +1,11 @@
+framework module DigiokycSDK {
+  umbrella header "DigiokycSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module DigiokycSDK.Swift {
+  header "DigiokycSDK-Swift.h"
+  requires objc
+}

@@ -12,6 +12,6 @@ Pod::Spec.new do |spec|
   spec.swift_version = "5.7.2"
   spec.source       = { :git => "https://github.com/digio-tech/digio-iOS-KYC-SDK.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "DigiokycSDK.xcframework"
-  spec.dependency 'lottie-ios'
+#   spec.dependency 'lottie-ios'
   spec.dependency 'GoogleMLKit/FaceDetection'
 end

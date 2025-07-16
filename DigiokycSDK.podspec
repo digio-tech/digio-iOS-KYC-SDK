@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "DigiokycSDK"
-  spec.version      = "1.3.0-beta.4"
+  spec.version      = "1.3.0-beta.5"
   spec.summary      = "OKYC, OCR, PAN verification, Aadhaar."
   spec.description  = "DigiokycSDK is a swift client framework, which is design for eKYC, OKYC, Aadhaar verification, Pancard verification, OCR etc"
   spec.homepage     = "https://github.com/digio-tech/digio-iOS-KYC-SDK"
@@ -16,4 +16,7 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
 #   spec.dependency 'lottie-ios'
   spec.dependency 'GoogleMLKit/FaceDetection'
+  spec.pod_target_xcconfig = {
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+  }
 end

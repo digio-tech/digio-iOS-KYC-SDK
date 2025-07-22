@@ -45,16 +45,6 @@ public enum DigioTaskType : Swift.String {
     get
   }
 }
-public protocol CaptureHandler {
-  func launchCamera(from viewController: UIKit.UIViewController, mode: DigiokycSDK.CameraType, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (Swift.String?, UIKit.UIImage) -> Swift.Void)
-  func showPreview(from viewController: UIKit.UIViewController, image: UIKit.UIImage, imagePath: Swift.String, environment: Swift.String, clientId: Swift.String, secretKey: Swift.String, token: Swift.String, onComplete: @escaping () -> Swift.Void, onRetake: @escaping () -> Swift.Void)
-}
-public enum CaptureManager {
-  public static var handler: (any DigiokycSDK.CaptureHandler)?
-  public static func launchCamera(from vc: UIKit.UIViewController, mode: DigiokycSDK.CameraType = .face, shouldShowSwitchCameraButton: Swift.Bool = true, completion: @escaping (Swift.String?, UIKit.UIImage) -> Swift.Void)
-  public static func showPreview(from vc: UIKit.UIViewController, image: UIKit.UIImage, imagePath: Swift.String, environment: Swift.String, clientId: Swift.String, secretKey: Swift.String, token: Swift.String, onComplete: @escaping () -> Swift.Void, onRetake: @escaping () -> Swift.Void)
-}
-public func enableDigioCaptureKit() -> Swift.Bool
 public protocol DigioKycResponseDelegate {
   func onDigioKycResponseSuccess(successResponse: Swift.String)
   func onDigioKycResponseFailure(failureResponse: Swift.String)
@@ -104,18 +94,6 @@ public class DigioTaskRequest {
   public var taskType: DigiokycSDK.DigioTaskType?
   @objc deinit
 }
-public enum CameraType : Swift.String {
-  case none
-  case face
-  case qrcode
-  case frame
-  case video
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
-}
 public protocol DigioKycDelegate {
   func clickedAgree(aadhaarNumebr: Swift.String, captcha: Swift.String)
   func cancelClicked()
@@ -131,7 +109,33 @@ public enum DigioKYCFlow : Swift.String {
     get
   }
 }
+@_inheritsConvenienceInitializers @objc public class CaptureKitHelper : ObjectiveC.NSObject {
+  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (_ path: Swift.String?, _ image: UIKit.UIImage?) -> Swift.Void)
+  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, config: DigiokycSDK.CaptureConfig?, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (Foundation.NSString?, UIKit.UIImage?) -> Swift.Void)
+  @objc public static func launchPreviewIfAvailable(from viewController: UIKit.UIViewController, image: UIKit.UIImage, imagePath: Swift.String, environment: Swift.String, clientId: Swift.String, secretKey: Swift.String, token: Swift.String, onComplete: @escaping () -> Swift.Void, onRetake: @escaping () -> Swift.Void)
+  @objc override dynamic public init()
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class NetworkReachability {
+  @objc deinit
+}
+public enum CaptureMode : Swift.String {
+  case none
+  case face
+  case qrcode
+  case frame
+  case video
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class CaptureConfig : ObjectiveC.NSObject {
+  @objc public var baseUrl: Swift.String?
+  @objc public var isStatelssFlow: Swift.Bool
+  @objc public var token: Swift.String?
+  @objc override dynamic public init()
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class DigioEventConstants {
@@ -163,9 +167,9 @@ extension DigiokycSDK.DigioTaskType : Swift.RawRepresentable {}
 extension DigiokycSDK.DigioEnvironment : Swift.Equatable {}
 extension DigiokycSDK.DigioEnvironment : Swift.Hashable {}
 extension DigiokycSDK.DigioEnvironment : Swift.RawRepresentable {}
-extension DigiokycSDK.CameraType : Swift.Equatable {}
-extension DigiokycSDK.CameraType : Swift.Hashable {}
-extension DigiokycSDK.CameraType : Swift.RawRepresentable {}
 extension DigiokycSDK.DigioKYCFlow : Swift.Equatable {}
 extension DigiokycSDK.DigioKYCFlow : Swift.Hashable {}
 extension DigiokycSDK.DigioKYCFlow : Swift.RawRepresentable {}
+extension DigiokycSDK.CaptureMode : Swift.Equatable {}
+extension DigiokycSDK.CaptureMode : Swift.Hashable {}
+extension DigiokycSDK.CaptureMode : Swift.RawRepresentable {}

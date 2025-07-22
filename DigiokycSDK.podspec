@@ -1,22 +1,19 @@
 Pod::Spec.new do |spec|
   spec.name         = "DigiokycSDK"
-  spec.version      = "1.3.0-beta.5"
+  spec.version      = "1.3.0-beta.6"
   spec.summary      = "OKYC, OCR, PAN verification, Aadhaar."
-  spec.description  = "DigiokycSDK is a swift client framework, which is design for eKYC, OKYC, Aadhaar verification, Pancard verification, OCR etc"
+  spec.description  = "DigiokycSDK is a swift client framework, designed for eKYC, OKYC, Aadhaar verification, Pancard verification, OCR, etc."
   spec.homepage     = "https://github.com/digio-tech/digio-iOS-KYC-SDK"
-  spec.license      = { :type => "BSD", :file => "LICENSE"}
-  spec.author             = { "Akash Kumar" => "akash.kumar@digio.in" }
-  spec.social_media_url   = "https://twitter.com/digio_in"
-  spec.platform     = :ios
-  spec.ios.deployment_target = "15.6"
+  spec.license      = { :type => "BSD", :file => "LICENSE" }
+  spec.author       = { "Akash Kumar" => "akash.kumar@digio.in" }
+  spec.social_media_url = "https://x.com/digio_in"
+  spec.platform     = :ios, "15.6"
   spec.swift_version = "5.7.2"
   spec.source       = { :git => "https://github.com/digio-tech/digio-iOS-KYC-SDK.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "DigiokycSDK.xcframework"
-  spec.preserve_paths = "DigiokycSDK.xcframework"
-  spec.requires_arc = true
-#   spec.dependency 'lottie-ios'
-  spec.dependency 'GoogleMLKit/FaceDetection'
-  spec.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-  }
+
+  # Optional dependency via subspec
+  spec.subspec 'CaptureKitSupport' do |ss|
+    ss.dependency 'DigioCaptureKit'
+  end
 end

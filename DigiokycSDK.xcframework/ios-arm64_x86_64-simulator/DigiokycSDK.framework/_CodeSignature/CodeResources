@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		cSXFCVY6mknERiNqW8iSQIKfmS8=
+		1qWtBAW1nBwmeVFPM1vRdp2Eyv8=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GP0MHUlfLxAJoX0Qj+QQFRWfvY0=
+		McTHbu/qF/S+LzXtbjqErIcNXLs=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cSXFCVY6mknERiNqW8iSQIKfmS8=
+		1qWtBAW1nBwmeVFPM1vRdp2Eyv8=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Wmdr3QpF0TLJwz6YkBmtysGwQEo=
+		mAAWJ+qEltZNwNewh5YUmm5NB+U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -304,7 +304,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UzOnyVd7/vO4kk8ARNV9O3CplV87ZDsUWSGgnkxkloQ=
+			ZVWepQb8a8lhlsm/OVCoU7/yIQJYzTEUVFwtJylbn2k=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -332,14 +332,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DrcleJN7zeDqQFKDH+nS7be5+xDw0mfoHqSJL/09dUA=
+			1LoDd5ukhJegRag7dcHO3iKVqkC3/+JlXqxnXDwerZE=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UzOnyVd7/vO4kk8ARNV9O3CplV87ZDsUWSGgnkxkloQ=
+			ZVWepQb8a8lhlsm/OVCoU7/yIQJYzTEUVFwtJylbn2k=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -367,7 +367,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m3oUaFa331rfpCSkLotmvEJAk+3JBJpCctRw0siXrZo=
+			kuJpf0TrWL7uL/3l0llinrIDWiqqMYT7kuaCWaCLUcY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

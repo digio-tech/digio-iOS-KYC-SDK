@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name DigiokycSDK
+// swift-module-flags: -target x86_64-apple-ios15.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name DigiokycSDK
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import CoreLocation
 @_exported import DigiokycSDK
@@ -66,6 +66,7 @@ public class DigioKycBuilder {
   public func setFontFormat(fontFormat: Swift.String) -> DigiokycSDK.DigioKycBuilder
   public func setFontFamily(fontFamily: Swift.String) -> DigiokycSDK.DigioKycBuilder
   public func setFontUrl(fontUrl: Swift.String) -> DigiokycSDK.DigioKycBuilder
+  public func setLocalUrl(localUrl: Swift.String) -> DigiokycSDK.DigioKycBuilder
   public func build() throws
   public func addTaskList(taskList: Swift.Array<DigiokycSDK.DigioTaskRequest>) -> DigiokycSDK.DigioKycBuilder
   public func setReferenceIdUninqueRequestId(referenceId: Swift.String?, uniqueRequestId: Swift.String?) -> DigiokycSDK.DigioKycBuilder
@@ -109,7 +110,33 @@ public enum DigioKYCFlow : Swift.String {
     get
   }
 }
+@_inheritsConvenienceInitializers @objc public class CaptureKitHelper : ObjectiveC.NSObject {
+  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (_ path: Swift.String?, _ image: UIKit.UIImage?) -> Swift.Void)
+  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, config: DigiokycSDK.CaptureConfig?, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (Foundation.NSString?, UIKit.UIImage?) -> Swift.Void)
+  @objc public static func launchPreviewIfAvailable(from viewController: UIKit.UIViewController, image: UIKit.UIImage, imagePath: Swift.String, environment: Swift.String, clientId: Swift.String, secretKey: Swift.String, token: Swift.String, onComplete: @escaping () -> Swift.Void, onRetake: @escaping () -> Swift.Void)
+  @objc override dynamic public init()
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class NetworkReachability {
+  @objc deinit
+}
+public enum CaptureMode : Swift.String {
+  case none
+  case face
+  case qrcode
+  case frame
+  case video
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class CaptureConfig : ObjectiveC.NSObject {
+  @objc public var baseUrl: Swift.String?
+  @objc public var isStatelssFlow: Swift.Bool
+  @objc public var token: Swift.String?
+  @objc override dynamic public init()
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class DigioEventConstants {
@@ -133,6 +160,9 @@ public enum DigioKYCFlow : Swift.String {
   public static let AGREE_PROCEED: Swift.String
   public static let ACTION_UIDAI_TEMPORARY_ERROR: Swift.String
   public static let UIDAI_SERVICE_DOWN: Swift.String
+  public static let SELFIE_CAMERA_INITIATED: Swift.String
+  public static let SELFIE_CAPTURE_SUCCESS: Swift.String
+  public static let SELFIE_CAPTURE_CANCELLED: Swift.String
   @objc deinit
 }
 extension DigiokycSDK.DigioTaskType : Swift.Equatable {}
@@ -144,3 +174,6 @@ extension DigiokycSDK.DigioEnvironment : Swift.RawRepresentable {}
 extension DigiokycSDK.DigioKYCFlow : Swift.Equatable {}
 extension DigiokycSDK.DigioKYCFlow : Swift.Hashable {}
 extension DigiokycSDK.DigioKYCFlow : Swift.RawRepresentable {}
+extension DigiokycSDK.CaptureMode : Swift.Equatable {}
+extension DigiokycSDK.CaptureMode : Swift.Hashable {}
+extension DigiokycSDK.CaptureMode : Swift.RawRepresentable {}

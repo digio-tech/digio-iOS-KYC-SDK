@@ -280,6 +280,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import ObjectiveC;
 #endif
 
 #endif
@@ -301,6 +302,27 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+
+@class NSString;
+
+SWIFT_CLASS("_TtC11DigiokycSDK13CaptureConfig")
+@interface CaptureConfig : NSObject
+@property (nonatomic, copy) NSString * _Nullable baseUrl;
+@property (nonatomic) BOOL isStatelssFlow;
+@property (nonatomic, copy) NSString * _Nullable token;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UIViewController;
+@class UIImage;
+
+SWIFT_CLASS("_TtC11DigiokycSDK16CaptureKitHelper")
+@interface CaptureKitHelper : NSObject
++ (void)launchCameraIfAvailableFrom:(UIViewController * _Nonnull)parent mode:(NSString * _Nonnull)mode isImagePreview:(BOOL)isImagePreview shouldShowSwitchCameraButton:(BOOL)shouldShowSwitchCameraButton completion:(void (^ _Nonnull)(NSString * _Nullable, UIImage * _Nullable))completion;
++ (void)launchCameraIfAvailableFrom:(UIViewController * _Nonnull)parent mode:(NSString * _Nonnull)mode config:(CaptureConfig * _Nullable)config isImagePreview:(BOOL)isImagePreview shouldShowSwitchCameraButton:(BOOL)shouldShowSwitchCameraButton completion:(void (^ _Nonnull)(NSString * _Nullable, UIImage * _Nullable))completion;
++ (void)launchPreviewIfAvailableFrom:(UIViewController * _Nonnull)viewController image:(UIImage * _Nonnull)image imagePath:(NSString * _Nonnull)imagePath environment:(NSString * _Nonnull)environment clientId:(NSString * _Nonnull)clientId secretKey:(NSString * _Nonnull)secretKey token:(NSString * _Nonnull)token onComplete:(void (^ _Nonnull)(void))onComplete onRetake:(void (^ _Nonnull)(void))onRetake;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
 
 
 
@@ -596,6 +618,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import ObjectiveC;
 #endif
 
 #endif
@@ -617,6 +640,27 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+
+@class NSString;
+
+SWIFT_CLASS("_TtC11DigiokycSDK13CaptureConfig")
+@interface CaptureConfig : NSObject
+@property (nonatomic, copy) NSString * _Nullable baseUrl;
+@property (nonatomic) BOOL isStatelssFlow;
+@property (nonatomic, copy) NSString * _Nullable token;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UIViewController;
+@class UIImage;
+
+SWIFT_CLASS("_TtC11DigiokycSDK16CaptureKitHelper")
+@interface CaptureKitHelper : NSObject
++ (void)launchCameraIfAvailableFrom:(UIViewController * _Nonnull)parent mode:(NSString * _Nonnull)mode isImagePreview:(BOOL)isImagePreview shouldShowSwitchCameraButton:(BOOL)shouldShowSwitchCameraButton completion:(void (^ _Nonnull)(NSString * _Nullable, UIImage * _Nullable))completion;
++ (void)launchCameraIfAvailableFrom:(UIViewController * _Nonnull)parent mode:(NSString * _Nonnull)mode config:(CaptureConfig * _Nullable)config isImagePreview:(BOOL)isImagePreview shouldShowSwitchCameraButton:(BOOL)shouldShowSwitchCameraButton completion:(void (^ _Nonnull)(NSString * _Nullable, UIImage * _Nullable))completion;
++ (void)launchPreviewIfAvailableFrom:(UIViewController * _Nonnull)viewController image:(UIImage * _Nonnull)image imagePath:(NSString * _Nonnull)imagePath environment:(NSString * _Nonnull)environment clientId:(NSString * _Nonnull)clientId secretKey:(NSString * _Nonnull)secretKey token:(NSString * _Nonnull)token onComplete:(void (^ _Nonnull)(void))onComplete onRetake:(void (^ _Nonnull)(void))onRetake;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
 
 
 

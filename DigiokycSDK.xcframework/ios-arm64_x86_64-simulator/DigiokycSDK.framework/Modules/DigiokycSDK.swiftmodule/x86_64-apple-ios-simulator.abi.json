@@ -1712,6 +1712,33 @@
           },
           {
             "kind": "Function",
+            "name": "setGlobal",
+            "printedName": "setGlobal(global:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DigioKycBuilder",
+                "printedName": "DigiokycSDK.DigioKycBuilder",
+                "usr": "s:11DigiokycSDK15DigioKycBuilderC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11DigiokycSDK15DigioKycBuilderC9setGlobal6globalACSb_tF",
+            "mangledName": "$s11DigiokycSDK15DigioKycBuilderC9setGlobal6globalACSb_tF",
+            "moduleName": "DigiokycSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "build",
             "printedName": "build()",
             "children": [
@@ -3196,8 +3223,50 @@
         "children": [
           {
             "kind": "Function",
+            "name": "isCaptureKitAvailable",
+            "printedName": "isCaptureKitAvailable(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureKitHelper(cm)isCaptureKitAvailableWithCompletion:",
+            "mangledName": "$s11DigiokycSDK16CaptureKitHelperC02iscD9Available10completionyySbc_tFZ",
+            "moduleName": "DigiokycSDK",
+            "static": true,
+            "objc_name": "isCaptureKitAvailableWithCompletion:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "launchCameraIfAvailable",
-            "printedName": "launchCameraIfAvailable(from:mode:isImagePreview:shouldShowSwitchCameraButton:completion:)",
+            "printedName": "launchCameraIfAvailable(from:mode:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3231,7 +3300,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Swift.String?, UIKit.UIImage?) -> ()",
+                "printedName": "(Swift.String?, UIKit.UIImage?, Swift.Bool) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -3241,7 +3310,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Tuple",
-                    "printedName": "(Swift.String?, UIKit.UIImage?)",
+                    "printedName": "(Swift.String?, UIKit.UIImage?, Swift.Bool)",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -3270,18 +3339,41 @@
                           }
                         ],
                         "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureKitHelper(cm)launchCameraIfAvailableFrom:mode:isImagePreview:shouldShowSwitchCameraButton:completion:",
-            "mangledName": "$s11DigiokycSDK16CaptureKitHelperC23launchCameraIfAvailable4from4mode14isImagePreview016shouldShowSwitchG6Button10completionySo16UIViewControllerC_SSS2bySSSg_So7UIImageCSgtctFZ",
+            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureKitHelper(cm)launchCameraIfAvailableFrom:mode:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:",
+            "mangledName": "$s11DigiokycSDK16CaptureKitHelperC23launchCameraIfAvailable4from4mode14isImagePreview016shouldShowSwitchG6Button10completion8onCancelySo16UIViewControllerC_SSS2bySSSg_So7UIImageCSgSbtcyyctFZ",
             "moduleName": "DigiokycSDK",
             "static": true,
-            "objc_name": "launchCameraIfAvailableFrom:mode:isImagePreview:shouldShowSwitchCameraButton:completion:",
+            "objc_name": "launchCameraIfAvailableFrom:mode:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -3292,7 +3384,7 @@
           {
             "kind": "Function",
             "name": "launchCameraIfAvailable",
-            "printedName": "launchCameraIfAvailable(from:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:)",
+            "printedName": "launchCameraIfAvailable(from:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3340,7 +3432,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Foundation.NSString?, UIKit.UIImage?) -> ()",
+                "printedName": "(Foundation.NSString?, UIKit.UIImage?, Swift.Bool) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -3350,7 +3442,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Tuple",
-                    "printedName": "(Foundation.NSString?, UIKit.UIImage?)",
+                    "printedName": "(Foundation.NSString?, UIKit.UIImage?, Swift.Bool)",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -3379,18 +3471,41 @@
                           }
                         ],
                         "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureKitHelper(cm)launchCameraIfAvailableFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:",
-            "mangledName": "$s11DigiokycSDK16CaptureKitHelperC23launchCameraIfAvailable4from4mode6config14isImagePreview016shouldShowSwitchG6Button10completionySo16UIViewControllerC_SSAA0C6ConfigCSgS2bySo8NSStringCSg_So7UIImageCSgtctFZ",
+            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureKitHelper(cm)launchCameraIfAvailableFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:",
+            "mangledName": "$s11DigiokycSDK16CaptureKitHelperC23launchCameraIfAvailable4from4mode6config14isImagePreview016shouldShowSwitchG6Button10completion8onCancelySo16UIViewControllerC_SSAA0C6ConfigCSgS2bySo8NSStringCSg_So7UIImageCSgSbtcyyctFZ",
             "moduleName": "DigiokycSDK",
             "static": true,
-            "objc_name": "launchCameraIfAvailableFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:",
+            "objc_name": "launchCameraIfAvailableFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -5915,6 +6030,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/DigioKYCconfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 734,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/DigioKycUtils.swift",
       "kind": "Array",
       "offset": 5163,
@@ -6186,6 +6308,13 @@
       "offset": 831,
       "length": 9,
       "value": "\"#0066ff\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/DigioKycBuilder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1180,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/Stack.swift",
@@ -6519,203 +6648,203 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1434,
+      "offset": 1480,
       "length": 7,
       "value": "\"2.0.0\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1513,
+      "offset": 1559,
       "length": 49,
       "value": "\"https:\/\/tathya.uidai.gov.in\/generateOTPForOAuth\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1601,
+      "offset": 1647,
       "length": 45,
       "value": "\"https:\/\/tathya.uidai.gov.in\/generateCaptcha\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1825,
+      "offset": 1871,
       "length": 38,
       "value": "\"App-prefs:root=Privacy&path=LOCATION\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1905,
+      "offset": 1951,
       "length": 36,
       "value": "\"App-prefs:root=Privacy&path=CAMERA\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2096,
+      "offset": 2142,
       "length": 48,
       "value": "\"Successfully Generated One Time Password (OTP)\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2209,
+      "offset": 2255,
       "length": 44,
       "value": "\"Aadhaar number does not have mobile number\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2302,
+      "offset": 2348,
       "length": 29,
       "value": "\"Captcha value doesn't match\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2401,
+      "offset": 2447,
       "length": 33,
       "value": "\"Error during Captcha Validation\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2487,
+      "offset": 2533,
       "length": 29,
       "value": "\"Error in validating captcha\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2582,
+      "offset": 2628,
       "length": 29,
       "value": "\"Error during OTP Generation\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2656,
+      "offset": 2702,
       "length": 24,
       "value": "\"Unable to generate OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2726,
+      "offset": 2772,
       "length": 25,
       "value": "\"Captcha session expired\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2785,
+      "offset": 2831,
       "length": 13,
       "value": "\"Invalid OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2833,
+      "offset": 2879,
       "length": 20,
       "value": "\"OTP Flooding error\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2888,
+      "offset": 2934,
       "length": 22,
       "value": "\"Exceeded maximum OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2955,
+      "offset": 3001,
       "length": 24,
       "value": "\"Unable to Validate OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3036,
+      "offset": 3082,
       "length": 17,
       "value": "\"Session Expired\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3121,
+      "offset": 3167,
       "length": 28,
       "value": "\"Invalid or Expired Session\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3193,
+      "offset": 3239,
       "length": 23,
       "value": "\"Internal Server Error\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3282,
+      "offset": 3328,
       "length": 45,
       "value": "\"Internal Server Error during Authentication\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3402,
+      "offset": 3448,
       "length": 54,
       "value": "\"UIDAI could not be loaded please try after some time\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3512,
+      "offset": 3558,
       "length": 35,
       "value": "\"UIDAI Website could not be loaded\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3598,
+      "offset": 3644,
       "length": 23,
       "value": "\"Internal server error\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3750,
+      "offset": 3796,
       "length": 13,
       "value": "\"REQUEST OTP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3803,
+      "offset": 3849,
       "length": 17,
       "value": "\"AGREE & PROCEED\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 3854,
+      "offset": 3900,
       "length": 13,
       "value": "\"FINISH eKYC\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 4009,
+      "offset": 4055,
       "length": 16,
       "value": "\"iosKycListener\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Others\/DigioSessionConstant.swift",
       "kind": "StringLiteral",
-      "offset": 4064,
+      "offset": 4110,
       "length": 16,
       "value": "\"iosUpiListener\""
     },
@@ -6764,112 +6893,154 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 659,
+      "offset": 1189,
       "length": 32,
       "value": "\"DigioCaptureKit.CameraLauncher\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 736,
+      "offset": 1266,
       "length": 31,
       "value": "\"DigioCaptureKit pod not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 984,
-      "length": 74,
-      "value": "\"presentFrom:mode:isImagePreview:shouldShowSwitchCameraButton:completion:\""
+      "kind": "BooleanLiteral",
+      "offset": 1332,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1725,
+      "offset": 1521,
+      "length": 83,
+      "value": "\"presentFrom:mode:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2232,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2377,
       "length": 20,
       "value": "\"Selector not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2432,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2367,
+      "offset": 3141,
       "length": 32,
       "value": "\"DigioCaptureKit.CameraLauncher\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2444,
+      "offset": 3218,
       "length": 31,
       "value": "\"DigioCaptureKit pod not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 2692,
-      "length": 81,
-      "value": "\"presentFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:\""
+      "kind": "BooleanLiteral",
+      "offset": 3284,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2999,
+      "offset": 3473,
+      "length": 90,
+      "value": "\"presentFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 3789,
       "length": 30,
       "value": "\"DigioCaptureKit.CameraConfig\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3258,
+      "offset": 4048,
       "length": 9,
       "value": "\"baseUrl\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3335,
+      "offset": 4125,
       "length": 16,
       "value": "\"isStatelssFlow\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3410,
+      "offset": 4200,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5046,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4269,
+      "offset": 5198,
       "length": 20,
       "value": "\"Selector not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5253,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5113,
+      "offset": 6048,
       "length": 33,
       "value": "\"DigioCaptureKit.PreviewLauncher\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5191,
+      "offset": 6126,
       "length": 31,
       "value": "\"DigioCaptureKit pod not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5425,
+      "offset": 6360,
       "length": 93,
       "value": "\"launchPreviewFrom:image:imagePath:environment:clientId:secretKey:token:onComplete:onRetake:\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6576,
+      "offset": 7511,
       "length": 39,
       "value": "\"Selector not found on PreviewLauncher\""
     },

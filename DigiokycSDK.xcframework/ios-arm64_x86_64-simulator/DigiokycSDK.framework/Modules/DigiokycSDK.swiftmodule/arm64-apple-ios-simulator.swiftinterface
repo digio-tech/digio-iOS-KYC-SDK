@@ -68,6 +68,7 @@ public class DigioKycBuilder {
   public func setFontUrl(fontUrl: Swift.String) -> DigiokycSDK.DigioKycBuilder
   public func setLocalUrl(localUrl: Swift.String) -> DigiokycSDK.DigioKycBuilder
   public func setGlobal(global: Swift.Bool) -> DigiokycSDK.DigioKycBuilder
+  public func setCaptureConfig(captureConfig: DigiokycSDK.CaptureConfig) -> DigiokycSDK.DigioKycBuilder
   public func build() throws
   public func addTaskList(taskList: Swift.Array<DigiokycSDK.DigioTaskRequest>) -> DigiokycSDK.DigioKycBuilder
   public func setReferenceIdUninqueRequestId(referenceId: Swift.String?, uniqueRequestId: Swift.String?) -> DigiokycSDK.DigioKycBuilder
@@ -114,7 +115,7 @@ public enum DigioKYCFlow : Swift.String {
 @_inheritsConvenienceInitializers @objc public class CaptureKitHelper : ObjectiveC.NSObject {
   @objc public static func isCaptureKitAvailable(completion: @escaping (_ isCaptureKitAvailable: Swift.Bool) -> Swift.Void)
   @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (_ path: Swift.String?, _ image: UIKit.UIImage?, _ isCaptureKitAvailable: Swift.Bool) -> Swift.Void, onCancel: @escaping (() -> Swift.Void))
-  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, config: DigiokycSDK.CaptureConfig?, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (Foundation.NSString?, UIKit.UIImage?, _ isCaptureKitAvailable: Swift.Bool) -> Swift.Void, onCancel: @escaping (() -> Swift.Void))
+  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, config: DigiokycSDK.CaptureConfig?, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (Foundation.NSString?, Foundation.NSString?, UIKit.UIImage?, CoreLocation.CLLocation?, CoreFoundation.CGRect, Foundation.NSString?, _ isCaptureKitAvailable: Swift.Bool) -> Swift.Void, onCancel: @escaping (() -> Swift.Void))
   @objc public static func launchPreviewIfAvailable(from viewController: UIKit.UIViewController, image: UIKit.UIImage, imagePath: Swift.String, environment: Swift.String, clientId: Swift.String, secretKey: Swift.String, token: Swift.String, onComplete: @escaping () -> Swift.Void, onRetake: @escaping () -> Swift.Void)
   @objc override dynamic public init()
   @objc deinit
@@ -135,9 +136,11 @@ public enum CaptureMode : Swift.String {
   }
 }
 @objc @_inheritsConvenienceInitializers @objcMembers public class CaptureConfig : ObjectiveC.NSObject {
-  @objc public var baseUrl: Swift.String?
-  @objc public var isStatelssFlow: Swift.Bool
-  @objc public var token: Swift.String?
+  @objc public var isImagePreview: Swift.Bool
+  @objc public var shouldShowSwitchCameraButton: Swift.Bool
+  @objc public var shouldShowInstructions: Swift.Bool
+  @objc public var locationRequired: Swift.Bool
+  @objc public var logoUrl: Swift.String?
   @objc override dynamic public init()
   @objc deinit
 }

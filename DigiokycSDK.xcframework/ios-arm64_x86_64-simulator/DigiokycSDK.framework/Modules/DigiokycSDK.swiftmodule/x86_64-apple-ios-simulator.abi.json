@@ -356,6 +356,13 @@
       },
       {
         "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1731,6 +1738,33 @@
             "declKind": "Func",
             "usr": "s:11DigiokycSDK15DigioKycBuilderC9setGlobal6globalACSb_tF",
             "mangledName": "$s11DigiokycSDK15DigioKycBuilderC9setGlobal6globalACSb_tF",
+            "moduleName": "DigiokycSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setCaptureConfig",
+            "printedName": "setCaptureConfig(captureConfig:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DigioKycBuilder",
+                "printedName": "DigiokycSDK.DigioKycBuilder",
+                "usr": "s:11DigiokycSDK15DigioKycBuilderC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CaptureConfig",
+                "printedName": "DigiokycSDK.CaptureConfig",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11DigiokycSDK15DigioKycBuilderC16setCaptureConfig07captureH0AcA0gH0C_tF",
+            "mangledName": "$s11DigiokycSDK15DigioKycBuilderC16setCaptureConfig07captureH0AcA0gH0C_tF",
             "moduleName": "DigiokycSDK",
             "declAttributes": [
               "AccessControl"
@@ -3217,6 +3251,13 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DigiokycSDK"
+      },
+      {
         "kind": "TypeDecl",
         "name": "CaptureKitHelper",
         "printedName": "CaptureKitHelper",
@@ -3432,7 +3473,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Foundation.NSString?, UIKit.UIImage?, Swift.Bool) -> ()",
+                "printedName": "(Foundation.NSString?, Foundation.NSString?, UIKit.UIImage?, CoreLocation.CLLocation?, CoreFoundation.CGRect, Foundation.NSString?, Swift.Bool) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -3442,8 +3483,22 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Tuple",
-                    "printedName": "(Foundation.NSString?, UIKit.UIImage?, Swift.Bool)",
+                    "printedName": "(Foundation.NSString?, Foundation.NSString?, UIKit.UIImage?, CoreLocation.CLLocation?, CoreFoundation.CGRect, Foundation.NSString?, Swift.Bool)",
                     "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Foundation.NSString?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NSString",
+                            "printedName": "Foundation.NSString",
+                            "usr": "c:objc(cs)NSString"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
                       {
                         "kind": "TypeNominal",
                         "name": "Optional",
@@ -3468,6 +3523,40 @@
                             "name": "UIImage",
                             "printedName": "UIKit.UIImage",
                             "usr": "c:objc(cs)UIImage"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "CoreLocation.CLLocation?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CLLocation",
+                            "printedName": "CoreLocation.CLLocation",
+                            "usr": "c:objc(cs)CLLocation"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CGRect",
+                        "printedName": "CoreFoundation.CGRect",
+                        "usr": "c:@S@CGRect"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Foundation.NSString?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NSString",
+                            "printedName": "Foundation.NSString",
+                            "usr": "c:objc(cs)NSString"
                           }
                         ],
                         "usr": "s:Sq"
@@ -3502,14 +3591,15 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@DigiokycSDK@objc(cs)CaptureKitHelper(cm)launchCameraIfAvailableFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:",
-            "mangledName": "$s11DigiokycSDK16CaptureKitHelperC23launchCameraIfAvailable4from4mode6config14isImagePreview016shouldShowSwitchG6Button10completion8onCancelySo16UIViewControllerC_SSAA0C6ConfigCSgS2bySo8NSStringCSg_So7UIImageCSgSbtcyyctFZ",
+            "mangledName": "$s11DigiokycSDK16CaptureKitHelperC23launchCameraIfAvailable4from4mode6config14isImagePreview016shouldShowSwitchG6Button10completion8onCancelySo16UIViewControllerC_SSAA0C6ConfigCSgS2bySo8NSStringCSg_ASSo7UIImageCSgSo10CLLocationCSgSo6CGRectVASSbtcyyctFZ",
             "moduleName": "DigiokycSDK",
             "static": true,
             "objc_name": "launchCameraIfAvailableFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:",
             "declAttributes": [
               "Final",
               "AccessControl",
-              "ObjC"
+              "ObjC",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -4133,125 +4223,8 @@
         "children": [
           {
             "kind": "Var",
-            "name": "baseUrl",
-            "printedName": "baseUrl",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(py)baseUrl",
-            "mangledName": "$s11DigiokycSDK13CaptureConfigC7baseUrlSSSgvp",
-            "moduleName": "DigiokycSDK",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl",
-              "ObjC"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)baseUrl",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC7baseUrlSSSgvg",
-                "moduleName": "DigiokycSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)setBaseUrl:",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC7baseUrlSSSgvs",
-                "moduleName": "DigiokycSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:11DigiokycSDK13CaptureConfigC7baseUrlSSSgvM",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC7baseUrlSSSgvM",
-                "moduleName": "DigiokycSDK",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "isStatelssFlow",
-            "printedName": "isStatelssFlow",
+            "name": "isImagePreview",
+            "printedName": "isImagePreview",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4261,8 +4234,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(py)isStatelssFlow",
-            "mangledName": "$s11DigiokycSDK13CaptureConfigC14isStatelssFlowSbvp",
+            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(py)isImagePreview",
+            "mangledName": "$s11DigiokycSDK13CaptureConfigC14isImagePreviewSbvp",
             "moduleName": "DigiokycSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -4285,8 +4258,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)isStatelssFlow",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC14isStatelssFlowSbvg",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)isImagePreview",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC14isImagePreviewSbvg",
                 "moduleName": "DigiokycSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -4312,8 +4285,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)setIsStatelssFlow:",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC14isStatelssFlowSbvs",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)setIsImagePreview:",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC14isImagePreviewSbvs",
                 "moduleName": "DigiokycSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -4333,8 +4306,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11DigiokycSDK13CaptureConfigC14isStatelssFlowSbvM",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC14isStatelssFlowSbvM",
+                "usr": "s:11DigiokycSDK13CaptureConfigC14isImagePreviewSbvM",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC14isImagePreviewSbvM",
                 "moduleName": "DigiokycSDK",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -4343,8 +4316,287 @@
           },
           {
             "kind": "Var",
-            "name": "token",
-            "printedName": "token",
+            "name": "shouldShowSwitchCameraButton",
+            "printedName": "shouldShowSwitchCameraButton",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(py)shouldShowSwitchCameraButton",
+            "mangledName": "$s11DigiokycSDK13CaptureConfigC28shouldShowSwitchCameraButtonSbvp",
+            "moduleName": "DigiokycSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)shouldShowSwitchCameraButton",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC28shouldShowSwitchCameraButtonSbvg",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)setShouldShowSwitchCameraButton:",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC28shouldShowSwitchCameraButtonSbvs",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11DigiokycSDK13CaptureConfigC28shouldShowSwitchCameraButtonSbvM",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC28shouldShowSwitchCameraButtonSbvM",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "shouldShowInstructions",
+            "printedName": "shouldShowInstructions",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(py)shouldShowInstructions",
+            "mangledName": "$s11DigiokycSDK13CaptureConfigC22shouldShowInstructionsSbvp",
+            "moduleName": "DigiokycSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)shouldShowInstructions",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC22shouldShowInstructionsSbvg",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)setShouldShowInstructions:",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC22shouldShowInstructionsSbvs",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11DigiokycSDK13CaptureConfigC22shouldShowInstructionsSbvM",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC22shouldShowInstructionsSbvM",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "locationRequired",
+            "printedName": "locationRequired",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(py)locationRequired",
+            "mangledName": "$s11DigiokycSDK13CaptureConfigC16locationRequiredSbvp",
+            "moduleName": "DigiokycSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)locationRequired",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC16locationRequiredSbvg",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)setLocationRequired:",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC16locationRequiredSbvs",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11DigiokycSDK13CaptureConfigC16locationRequiredSbvM",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC16locationRequiredSbvM",
+                "moduleName": "DigiokycSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "logoUrl",
+            "printedName": "logoUrl",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4362,8 +4614,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(py)token",
-            "mangledName": "$s11DigiokycSDK13CaptureConfigC5tokenSSSgvp",
+            "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(py)logoUrl",
+            "mangledName": "$s11DigiokycSDK13CaptureConfigC7logoUrlSSSgvp",
             "moduleName": "DigiokycSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -4394,8 +4646,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)token",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC5tokenSSSgvg",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)logoUrl",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC7logoUrlSSSgvg",
                 "moduleName": "DigiokycSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -4429,8 +4681,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)setToken:",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC5tokenSSSgvs",
+                "usr": "c:@M@DigiokycSDK@objc(cs)CaptureConfig(im)setLogoUrl:",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC7logoUrlSSSgvs",
                 "moduleName": "DigiokycSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -4450,8 +4702,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11DigiokycSDK13CaptureConfigC5tokenSSSgvM",
-                "mangledName": "$s11DigiokycSDK13CaptureConfigC5tokenSSSgvM",
+                "usr": "s:11DigiokycSDK13CaptureConfigC7logoUrlSSSgvM",
+                "mangledName": "$s11DigiokycSDK13CaptureConfigC7logoUrlSSSgvM",
                 "moduleName": "DigiokycSDK",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -5794,7 +6046,7 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Stateless\/DigioStatelessSession.swift",
       "kind": "IntegerLiteral",
-      "offset": 493,
+      "offset": 513,
       "length": 1,
       "value": "0"
     },
@@ -6893,154 +7145,210 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1189,
+      "offset": 1209,
       "length": 32,
       "value": "\"DigioCaptureKit.CameraLauncher\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1266,
+      "offset": 1286,
       "length": 31,
       "value": "\"DigioCaptureKit pod not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 1332,
+      "offset": 1352,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1521,
+      "offset": 1541,
       "length": 83,
       "value": "\"presentFrom:mode:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2232,
+      "offset": 2252,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2377,
+      "offset": 2397,
       "length": 20,
       "value": "\"Selector not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2432,
+      "offset": 2452,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3141,
+      "offset": 3850,
       "length": 32,
       "value": "\"DigioCaptureKit.CameraLauncher\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3218,
+      "offset": 3927,
       "length": 31,
       "value": "\"DigioCaptureKit pod not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 3284,
+      "offset": 4015,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3473,
-      "length": 90,
-      "value": "\"presentFrom:mode:config:isImagePreview:shouldShowSwitchCameraButton:completion:onCancel:\""
+      "offset": 4109,
+      "length": 46,
+      "value": "\"presentFrom:mode:config:completion:onCancel:\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3789,
+      "offset": 4372,
       "length": 30,
       "value": "\"DigioCaptureKit.CameraConfig\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4048,
+      "offset": 4631,
       "length": 9,
       "value": "\"baseUrl\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4125,
+      "offset": 4708,
       "length": 16,
       "value": "\"isStatelssFlow\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4200,
+      "offset": 4783,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 4858,
+      "length": 16,
+      "value": "\"isImagePreview\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 4942,
+      "length": 16,
+      "value": "\"isMotionSelfie\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 5023,
+      "length": 13,
+      "value": "\"isVideoMode\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 5105,
+      "length": 17,
+      "value": "\"livePhotoLength\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 5192,
+      "length": 18,
+      "value": "\"locationRequired\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 5271,
+      "length": 9,
+      "value": "\"logoUrl\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 5356,
+      "length": 24,
+      "value": "\"shouldShowInstructions\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 5462,
+      "length": 30,
+      "value": "\"shouldShowSwitchCameraButton\""
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 5046,
+      "offset": 6407,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5198,
+      "offset": 6559,
       "length": 20,
       "value": "\"Selector not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 5253,
+      "offset": 6632,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6048,
+      "offset": 7427,
       "length": 33,
       "value": "\"DigioCaptureKit.PreviewLauncher\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6126,
+      "offset": 7505,
       "length": 31,
       "value": "\"DigioCaptureKit pod not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6360,
+      "offset": 7620,
       "length": 93,
       "value": "\"launchPreviewFrom:image:imagePath:environment:clientId:secretKey:token:onComplete:onRetake:\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureKitHelper.swift",
       "kind": "StringLiteral",
-      "offset": 7511,
+      "offset": 8771,
       "length": 39,
       "value": "\"Selector not found on PreviewLauncher\""
     },
@@ -7096,7 +7404,63 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 207,
+      "offset": 184,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 247,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 299,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 345,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 425,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 513,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 586,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 622,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/akash\/Digio_Projects\/ioskycsdk\/DigiokycSDK\/Feature_Wrapper\/CaptureConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 667,
       "length": 5,
       "value": "false"
     },

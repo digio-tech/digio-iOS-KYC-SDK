@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/DigiokycSDK-Swift.h</key>
 		<data>
-		QCoKeE647AJP4mlNhDFH833i/OA=
+		3NjZVksjk7huOL49GoVIlqLJhEw=
 		</data>
 		<key>Headers/DigiokycSDK.h</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		19QODRDGHt/mR7jeFsFTm6pM/O8=
+		yXx06UqDmD+8o9AWml2WM0xCvC8=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		MAMUsVGBQHhscnaUrMORmOc1A2A=
+		YmMhRvXjiG5jVduB3tyHgpzfNyE=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,19 +58,19 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		MAMUsVGBQHhscnaUrMORmOc1A2A=
+		YmMhRvXjiG5jVduB3tyHgpzfNyE=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HlgxGoZmAhbcOM81m8oNMWu8p20=
+		ueNWVOVHF/V3NBzZQWRj38iG7NM=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		19QODRDGHt/mR7jeFsFTm6pM/O8=
+		yXx06UqDmD+8o9AWml2WM0xCvC8=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		F7rx46ySmw0B5DlDVAsMHKmW30o=
+		a9Pby4UWbMTMPLXRBEc0L0HUQIo=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		F7rx46ySmw0B5DlDVAsMHKmW30o=
+		a9Pby4UWbMTMPLXRBEc0L0HUQIo=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5/KBROl+UCbLJq0f+G3HDaFdWHs=
+		e3PuddCfIUWu2hWI8QIfLept+Uo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -192,7 +192,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DeB6huSaT8ZK1av6ZWUA6RJ3Y3taSIx2MjZfK0hKy44=
+			gmk8L/o1uM4aOu+fdHhsvu0kozvKfNwab+Lqb/bsRXA=
 			</data>
 		</dict>
 		<key>Headers/DigiokycSDK.h</key>
@@ -206,14 +206,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			32FGCamBd9S4E/96yY5WDWRSE2+K3v2MAcQAfbxqMYs=
+			SgWPckqZYm+1+mdJAgN4s39AihtvFxDFfy1bhIjU714=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqFmoXEhp0Xsq1IXlBr45SwwipNNrd5PEMYBPNkoQUs=
+			NGwzmQGXUyu5fEd6tbSuKhDqzSQ09R2TCeo+oTFGKr0=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -227,28 +227,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqFmoXEhp0Xsq1IXlBr45SwwipNNrd5PEMYBPNkoQUs=
+			NGwzmQGXUyu5fEd6tbSuKhDqzSQ09R2TCeo+oTFGKr0=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a6Iqx1EteIbrDritSQoY/czlIyCEm4zt1y9AOuo43HA=
+			SV3/f0XK/goZwcMhc1/Dyf9OTyI3Nthkkk3JG38HD1s=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			32FGCamBd9S4E/96yY5WDWRSE2+K3v2MAcQAfbxqMYs=
+			SgWPckqZYm+1+mdJAgN4s39AihtvFxDFfy1bhIjU714=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DequU0LzQZvoobd9XN1HNEgf1z5e3wQKbOfUsbSqJcI=
+			5JmlmZHp7fFvhzYT11x5OMX72o1CYZfusqzzXMC9Lko=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -262,14 +262,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DequU0LzQZvoobd9XN1HNEgf1z5e3wQKbOfUsbSqJcI=
+			5JmlmZHp7fFvhzYT11x5OMX72o1CYZfusqzzXMC9Lko=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t3JYcLRdF1+kz+I2Q/MCBxyVI0pmaBJ00+M+g5tmj3g=
+			nCd9ynKQIJkxLnRRfnFw3hg31TlZd6bNJboDnin75PQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

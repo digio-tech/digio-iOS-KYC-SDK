@@ -33,6 +33,19 @@ public class DigioTheme {
   public init(fontFamily: Swift.String!, fontUrl: Swift.String!, fontFormat: Swift.String!)
   @objc deinit
 }
+public struct DigioWebConfig {
+  public let tokenId: Swift.String
+  public let documentId: Swift.String
+  public let identifier: Swift.String
+  public let redirectURL: Swift.String
+  public let logoPath: Swift.String
+  public let isSandbox: Swift.Bool
+  public let environment: DigiokycSDK.DigioEnvironment
+  public init(tokenId: Swift.String, documentId: Swift.String, identifier: Swift.String, redirectURL: Swift.String, isSandbox: Swift.Bool = true, logoPath: Swift.String, environment: DigiokycSDK.DigioEnvironment)
+}
+public struct DigioResult {
+  public let params: [Swift.String : Swift.String]
+}
 public enum DigioTaskType : Swift.String {
   case OFFLINE_KYC
   case E_AADHAAR
@@ -73,6 +86,7 @@ public class DigioKycBuilder {
   public func addTaskList(taskList: Swift.Array<DigiokycSDK.DigioTaskRequest>) -> DigiokycSDK.DigioKycBuilder
   public func setReferenceIdUninqueRequestId(referenceId: Swift.String?, uniqueRequestId: Swift.String?) -> DigiokycSDK.DigioKycBuilder
   public func build(clientId: Swift.String, clientSecretKey: Swift.String) throws
+  public func build(token: Swift.String, clientId: Swift.String) throws
   @objc deinit
 }
 public enum DigioEnvironment : Swift.String {
@@ -102,6 +116,11 @@ public protocol DigioKycDelegate {
   func cancelClicked()
   func onErrorResponse(statusCode: Swift.Int, errorMessage: Swift.String)
   func zipFileDownloaded(base64: Swift.String, sourceType: Swift.String, shareCode: Swift.String, fileName: Swift.String)
+}
+@_hasMissingDesignatedInitializers final public class DigioWebManager {
+  public static let shared: DigiokycSDK.DigioWebManager
+  final public func start(from parent: UIKit.UIViewController?, config: DigiokycSDK.DigioWebConfig, onResult: @escaping (DigiokycSDK.DigioResult) -> Swift.Void)
+  @objc deinit
 }
 public enum DigioKYCFlow : Swift.String {
   case OLD_UIDAI

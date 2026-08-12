@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios15.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name DigiokycSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.3.3 effective-5.10 (swiftlang-6.3.3.1.3 clang-2100.1.1.101)
+// swift-module-flags: -target arm64-apple-ios15.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name DigiokycSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.3.3
 import CoreLocation
 @_exported import DigiokycSDK
 import Foundation
@@ -133,8 +133,8 @@ public enum DigioKYCFlow : Swift.String {
 }
 @_inheritsConvenienceInitializers @objc public class CaptureKitHelper : ObjectiveC.NSObject {
   @objc public static func isCaptureKitAvailable(completion: @escaping (_ isCaptureKitAvailable: Swift.Bool) -> Swift.Void)
-  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (_ path: Swift.String?, _ image: UIKit.UIImage?, _ isCaptureKitAvailable: Swift.Bool) -> Swift.Void, onCancel: @escaping (() -> Swift.Void))
-  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, config: DigiokycSDK.CaptureConfig?, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (Foundation.NSString?, Foundation.NSString?, UIKit.UIImage?, CoreLocation.CLLocation?, CoreFoundation.CGRect, Foundation.NSString?, _ isCaptureKitAvailable: Swift.Bool) -> Swift.Void, onCancel: @escaping ((Foundation.NSString?) -> Swift.Void), onEvent: @escaping ((Foundation.NSString?) -> Swift.Void))
+  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (_ path: Swift.String?, _ image: UIKit.UIImage?, _ isCaptureKitAvailable: Swift.Bool) -> Swift.Void, onCancel: @escaping () -> Swift.Void)
+  @objc public static func launchCameraIfAvailable(from parent: UIKit.UIViewController, mode: Swift.String, config: DigiokycSDK.CaptureConfig?, isImagePreview: Swift.Bool, shouldShowSwitchCameraButton: Swift.Bool, completion: @escaping (Foundation.NSString?, Foundation.NSString?, UIKit.UIImage?, _LocationEssentials.CLLocation?, CoreFoundation.CGRect, Foundation.NSString?, _ isCaptureKitAvailable: Swift.Bool) -> Swift.Void, onCancel: @escaping (Foundation.NSString?) -> Swift.Void, onEvent: @escaping (Foundation.NSString?) -> Swift.Void)
   @objc public static func launchPreviewIfAvailable(from viewController: UIKit.UIViewController, image: UIKit.UIImage, imagePath: Swift.String, environment: Swift.String, clientId: Swift.String, secretKey: Swift.String, token: Swift.String, onComplete: @escaping () -> Swift.Void, onRetake: @escaping () -> Swift.Void)
   @objc override dynamic public init()
   @objc deinit

@@ -7,5 +7,4 @@ framework module DigiokycSDK {
 
 module DigiokycSDK.Swift {
   header "DigiokycSDK-Swift.h"
-  requires objc
 }

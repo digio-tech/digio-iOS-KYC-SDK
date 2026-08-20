@@ -1,2 +1,13 @@
 namansshkey
 namansshkey.pub
+
+# macOS
+.DS_Store
+
+# SwiftPM build artifacts
+.build/
+
+# Prebuilt release artifacts (distributed via GitHub Releases)
+DigiokycSDK.xcframework/
+DigiokycSDK.xcframework.zip
+DigiokycSDK_dSYMs.zip

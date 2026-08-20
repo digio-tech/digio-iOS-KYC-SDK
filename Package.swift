@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "DigiokycSDK",
     platforms: [
-        .iOS(.v11)
+        .iOS("15.1")
     ],
     products: [
         .library(
@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "DigiokycSDK",
             url: "https://github.com/digio-tech/digio-iOS-KYC-SDK/releases/download/2.0.7/DigiokycSDK.xcframework.zip",
-            checksum: "efa2ceb7ee619a16bf1b688b7f6c286af9af4dd44f2e56a530066f68056fa7b5"
+            checksum: "3c0e497100f247a00ce00adf070740100ec21d53fbb756fc73d6156d9d92e56c"
         )
     ]
 )

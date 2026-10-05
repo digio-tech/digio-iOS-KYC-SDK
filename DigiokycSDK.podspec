@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "DigiokycSDK"
-  spec.version      = "2.0.8"
+  spec.version      = "2.0.9"
   spec.summary      = "OKYC, OCR, PAN verification, Aadhaar."
   spec.description  = "DigiokycSDK is a swift client framework, which is design for eKYC, OKYC, Aadhaar verification, Pancard verification, OCR etc"
   spec.homepage     = "https://github.com/digio-tech/digio-iOS-KYC-SDK"
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.swift_version = "5.7.2"
   spec.source       = {
     :http => "https://github.com/digio-tech/digio-iOS-KYC-SDK/releases/download/#{spec.version}/DigiokycSDK.xcframework.zip",
-    :sha256 => "3c0e497100f247a00ce00adf070740100ec21d53fbb756fc73d6156d9d92e56c"
+    :sha256 => "a838789ac1dc81bfa1258525c62cc02899d3f7a9760a0d55e6d9f2bc97f34718"
   }
   spec.vendored_frameworks = "DigiokycSDK.xcframework"
 end

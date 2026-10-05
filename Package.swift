@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DigiokycSDK",
-            url: "https://github.com/digio-tech/digio-iOS-KYC-SDK/releases/download/2.0.7/DigiokycSDK.xcframework.zip",
-            checksum: "3c0e497100f247a00ce00adf070740100ec21d53fbb756fc73d6156d9d92e56c"
+            url: "https://github.com/digio-tech/digio-iOS-KYC-SDK/releases/download/2.0.8/DigiokycSDK.xcframework.zip",
+            checksum: "a838789ac1dc81bfa1258525c62cc02899d3f7a9760a0d55e6d9f2bc97f34718"
         )
     ]
 )
